@@ -5,7 +5,8 @@ menuItems:
   - menuItem: Home
   - menuItem: Context
   - menuItem: Research
-  - menuItem: Contact
+  - menuItem: Design
   - menuItem: For developers
+  - menuItem: Contact
   - menuItem: Contributing and open source
 ---

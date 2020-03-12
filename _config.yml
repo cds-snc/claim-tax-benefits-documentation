@@ -15,15 +15,10 @@ collections:
     output: false
 
 # Title
-name: Find benefits and services
-subtitle: Help people find benefits that meet their needs
+name: Claim tax benefits documentation
+subtitle: Help low-income Canadians file taxes to access their benefits
 
-# When using this template with a project page set the baseurl to '/project-name'
-# For user/organization pages set this to an empty string
-# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
-# See http://jekyllrb.com/docs/github-pages/ for more info
-baseurl: ''
-# baseurl: '/find-benefits-and-services-documentation'
+baseurl: ""
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -36,15 +31,6 @@ author2:
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
 logoalt:
-
-
-# Repo list
-# List repos that you would like to appear on the homepage here
-repos:
-- name: find-benefits-and-services
-  description: Explore benefits
-  url: https://github.com/cds-snc/find-benefits-and-services
-
 
 # Style Variables
 brand_color: "#FFCC3D"

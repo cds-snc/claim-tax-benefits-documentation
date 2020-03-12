@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Help people with low income tax-filers access CRA benefits and refunds?"
+  homepage-tag-line: "Help low-income Canadians file taxes to access their benefits"
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   hosting: "Hosted on"
@@ -10,7 +10,7 @@ en:
   homepage-slug: "/home/"
   site-name: "Claim tax benefits documentation"
 fr:
-  homepage-tag-line: "(fr) Help people with low income tax-filers access CRA benefits and refunds?"
+  homepage-tag-line: "(fr) Help low-income Canadians file taxes to access their benefits"
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"

@@ -1,8 +1,8 @@
 en:
-- name: find-benefits-and-services
-  description: application code
-  url: https://github.com/cds-snc/find-benefits-and-services
+  - name: cra-claim-tax-benefits
+    description: A benefit signup prototype
+    url: https://github.com/cds-snc/cra-claim-tax-benefits
 fr:
-- name: find-benefits-and-services
-  description: application code
-  url: https://github.com/cds-snc/find-benefits-and-services
+  - name: cra-claim-tax-benefits
+    description: (fr) A benefit signup prototype
+    url: https://github.com/cds-snc/cra-claim-tax-benefits

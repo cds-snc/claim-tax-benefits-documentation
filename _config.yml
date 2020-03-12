@@ -32,6 +32,10 @@ author2:
 logourl:
 logoalt:
 
+# List repos that you would like to appear on the homepage here
+repos:
+  - name: cra-claim-tax-benefits
+
 # Style Variables
 brand_color: "#FFCC3D"
 

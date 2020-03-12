@@ -9,7 +9,7 @@ childPages:
 ---
 
 {% if site.repos %}
-  {% include repositories.html %}
+{% include repositories.html %}
 {% endif %}
 
 To create your own instance of this service, first you will need to install Yarn:
@@ -61,7 +61,7 @@ Add the following 4 environment variables using the steps below.
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | `AIRTABLE_READ_KEY`  | Load data (benefits / translations / etc) from Airtable. This value is your API Key for your account on Airtable. To generate this key, visit your [account page](https://Airtable.com/account) and click on the “Generate my API key”                                  | yes                                           |
 | `AIRTABLE_BASE_KEY`  | This tells the app which Airtable base to pull data from. To locate this key, visit your Airtable base and click: help > API documentation. Then copy the base key from your current URL, which will have the format: `https://airtable.com/AIRTABLE_BASE_KEY/api/docs` | yes                                           |
-| `USE_AIRTABLE`       | `true` = pull data directly from Airtable, `false` = pull data from [data.json](https://github.com/cds-snc/find-benefits-and-services/blob/master/data.json)                                                                                                                                                                        | yes                                           |
+| `USE_AIRTABLE`       | `true` = pull data directly from Airtable, `false` = pull data from [data.json](https://github.com/cds-snc/find-benefits-and-services/blob/master/data.json)                                                                                                            | yes                                           |
 | `AIRTABLE_WRITE_KEY` | Write feedback form data to Airtable. If the API key for your account has write permissions to your Airtable base, you can use the same value for this variable.                                                                                                        | only if you want the feedback feature to work |
 
 ### Adding a new environment locally (OS X)

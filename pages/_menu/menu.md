@@ -9,5 +9,4 @@ menuItems:
   - menuItem: For developers
   - menuItem: Next steps
   - menuItem: Contact
-  - menuItem: Contributing and open source
 ---

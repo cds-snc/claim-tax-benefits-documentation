@@ -3,6 +3,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  repo: cds-snc/claim-tax-benefits-documentation
+  base_url: https://f1jj4za18c.execute-api.us-east-1.amazonaws.com
+  auth_endpoint: /production/auth
 media_folder: "assets/img"
 collections:
   - name: "docEn"
@@ -11,10 +14,16 @@ collections:
     sort: "title:asc"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Lang", name: "lang", widget: "hidden", default: "en"}
-      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "en" }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
       - label: "French translation"
         hint: "If you have the translation done, select the post here. Otherwise, you can come back and select it later"
         name: "trans_url"
@@ -40,10 +49,21 @@ collections:
     sort: "title:asc"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Titre", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Lang", name: "lang", widget: "hidden", default: "fr"}
-      - {label: "Corps du texte", name: "body", widget: "markdown", required: true}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - {
+          label: "Titre",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "fr" }
+      - {
+          label: "Corps du texte",
+          name: "body",
+          widget: "markdown",
+          required: true,
+        }
       - label: "Traduction en anglais"
         hint: "If you have the translation done, select the post here. Otherwise, you can come back and select it later"
         name: "trans_url"
@@ -68,11 +88,17 @@ collections:
     label: "Menu Order"
     folder: "pages/_menu"
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
       - label: "Menu Items"
         name: "menuItems"
         widget: "list"
-        fields: 
+        fields:
           - name: "menuItem"
             label: "menu item"
             widget: "relation"
@@ -80,5 +106,3 @@ collections:
             searchFields: ["title", "trans_url"]
             valueField: "title"
             displayFields: ["title", "trans_url"]
-
-

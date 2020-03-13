@@ -4,7 +4,7 @@ title: Design
 lang: en
 trans_url: Conception
 ---
-I love design stuff:
+I love design stuff hooray!
 
 * We use plain language
 

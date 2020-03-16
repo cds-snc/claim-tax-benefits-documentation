@@ -7,6 +7,5 @@ menuItems:
   - menuItem: Research
   - menuItem: Design
   - menuItem: For developers
-  - menuItem: Next steps
   - menuItem: Contact
 ---

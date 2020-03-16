@@ -2,8 +2,8 @@
 title: Menu
 lang: en
 menuItems:
-  - menuItem: Context
   - menuItem: Home
+  - menuItem: Context
   - menuItem: Research
   - menuItem: Design
   - menuItem: For developers

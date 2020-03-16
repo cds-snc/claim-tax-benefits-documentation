@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Welcome"
 lang: en
 trans_url: "Accueil"
 ---

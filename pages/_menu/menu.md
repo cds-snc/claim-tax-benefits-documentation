@@ -2,7 +2,7 @@
 title: Menu
 lang: en
 menuItems:
-  - menuItem: Home
+  - menuItem: Welcome
   - menuItem: Context
   - menuItem: Research
   - menuItem: Design

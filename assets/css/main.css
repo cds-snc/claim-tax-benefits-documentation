@@ -38,7 +38,7 @@ body {
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: 400;
     font-style: normal;
-    line-height: 1.466666667;
+    line-height: 1.6;
 }
 
 h1,
@@ -113,12 +113,6 @@ Links
 ==================================
 */
 
-a {
-    -webkit-transition: .2s;
-       -moz-transition: .2s;
-            transition: .2s;
-}
-
 a,
 a:link,
 a:visited {
@@ -140,21 +134,14 @@ a:active {
 }
 
 a:focus {
-    border-bottom: 1px solid #0072ce;
-    color: #0072ce;
-    outline: thin dotted;
+    outline: 2px solid {{ site.focus_color }};
+    outline-offset: 3px;
+    color: black;
     text-decoration: none;
 }
 
 a.title-link {
     color: #75787B;
-    border-bottom: none;
-}
-
-a.title-link:hover,
-a.title-link:active,
-a.title-link:focus {
-    color: #7eb8dd;
     border-bottom: none;
 }
 
@@ -167,7 +154,7 @@ a.skip-link {
 a.skip-link:hover,
 a.skip-link:active,
 a.skip-link:focus {
-    background-color: #0072ce;
+    background-color: {{ site.focus_color }};
     color: #fff;
     border-bottom: none;
 }
@@ -181,8 +168,6 @@ Navigation
 .sidebar-nav a {
   display: block;
   padding: 10px;
-  -webkit-transition: unset;
-  transition: unset;
 }
 .sidebar-nav a,
 .sidebar-nav a:link,

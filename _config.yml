@@ -38,6 +38,7 @@ repos:
 
 # Style Variables
 brand_color: "#FFCC3D"
+focus_color: "mediumseagreen"
 
 # Offline caching
 offline_cache: false

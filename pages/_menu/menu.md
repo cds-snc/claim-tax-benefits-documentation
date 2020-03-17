@@ -6,6 +6,6 @@ menuItems:
   - menuItem: Context
   - menuItem: Research
   - menuItem: Design
-  - menuItem: For developers
+  - menuItem: Technical overview
   - menuItem: Contact
 ---

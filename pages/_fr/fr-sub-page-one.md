@@ -1,7 +1,8 @@
 ---
 layout: page
-title: fr sub-page one
+title: fr Sub-page one
 lang: en
-trans_url: sub-page one
+trans_url: Sub-page one
 ---
+
 testing sub pages

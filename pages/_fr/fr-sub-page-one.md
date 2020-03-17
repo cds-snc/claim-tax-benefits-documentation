@@ -1,7 +1,7 @@
 ---
 layout: page
 title: fr Sub-page one
-lang: en
+lang: fr
 trans_url: Sub-page one
 ---
 

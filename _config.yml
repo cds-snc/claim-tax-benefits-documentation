@@ -36,10 +36,6 @@ logoalt:
 repos:
   - name: cra-claim-tax-benefits
 
-# Style Variables
-brand_color: "#FFCC3D"
-focus_color: "mediumseagreen"
-
 # Offline caching
 offline_cache: false
 cache_name: DOCter-v1.1

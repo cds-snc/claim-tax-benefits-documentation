@@ -122,4 +122,8 @@ Design interventions
 
 Next Steps
 
-* Design a simplified authentication flow using questions that most tax-filers are able to answer so that the CRA can disclose their financial information
+* User testing for paper flow                                                                                                      
+
+  Implement suggestions from content sub-stream lead
+
+Design a simplified authentication flow using questions that most tax-filers are able to answer so that the CRA can disclose their financial information

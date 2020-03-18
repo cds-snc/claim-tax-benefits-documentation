@@ -7,18 +7,10 @@
         {% for item in navPage.menuItems %}
           {% for sitePage in site[page.lang] %}
             {% if sitePage.title == item.menuItem or  sitePage.trans_url == item.menuItem %}
-              <li>
+              <li class="{% if sitePage.url == page.url %}sidebar-nav-active{% endif %}">
                 <a href="{{ site.baseurl }}{{ sitePage.url }}">{{ sitePage.title }}</a>
                 {% if sitePage.childPages %}
-                  <ul class="sub-menu">
-                    {% for childPage in sitePage.childPages %}
-                      {% for childrenPage in site[page.lang] %}
-                        {% if childrenPage.title == childPage or sitePage.trans_url == childPage %}
-                          <li class="sub-link"><a  href="{{ site.baseurl }}{{ childrenPage.url }}">{{ childrenPage.title }}</a></li>
-                        {% endif %}
-                      {% endfor %}
-                    {% endfor %}
-                  </ul>
+                  {% include submenu.html %}
                 {% endif %}
               </li>
             {% endif %}

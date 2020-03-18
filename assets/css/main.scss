@@ -173,53 +173,61 @@ Navigation
 .sidebar-nav a {
   display: block;
   padding: 10px;
+  border-left: 4px solid transparent;
+  font-size: 1.125em;
 }
 .sidebar-nav a,
 .sidebar-nav a:link,
 .sidebar-nav a:visited {
-  border-bottom: none;
   color: #75787b;
+  border-bottom: none;
 }
-.sidebar-nav li:hover,
-.sidebar-nav a:focus,
-.sidebar-nav li:active,
-.sidebar-nav .sidebar-nav-active {
+
+.sidebar-nav > ul > li a:hover,
+.sidebar-nav > ul > li a:focus,
+.sidebar-nav > ul > li a:active,
+.sidebar-nav > ul .sidebar-nav-active > a {
   color: #75787b;
   border-left: 4px solid $brandColor;
   background-color: transparent;
-  border-bottom: 1px solid #babbbd;
+  padding-left: 6px;
 }
+
 .sidebar-nav li:hover,
 .sidebar-nav li:active,
 .sidebar-nav .sidebar-nav-active {
   padding-left: 0;
 }
-.sidebar-nav a:focus {
-  padding-left: 6px;
-}
+
 .sidebar-nav li:hover a:focus,
 .sidebar-nav li:active a:focus {
   border-left: none;
-  padding-left: 10px;
 }
 .sidebar-nav ul {
   margin: 0;
   padding: 0;
   /*border-top: 1px solid @gray-50;*/
 }
-.sidebar-nav li {
+.sidebar-nav li,
+.sidebar-nav li ul li {
   list-style: none;
   border-bottom: 1px solid #babbbd;
-  font-size: 1.125em;
-  padding-left: 4px;
 }
 .sidebar-nav li:last-child {
   border-bottom: none;
 }
 
 .sub-link {
-  padding-left: 30px !important;
-  font-size: 1em !important;
+  a {
+    padding-left: 30px;
+    font-size: 1em;
+  }
+  
+  &:hover a,
+  &:focus a,
+  &:active a {
+    padding-left: 26px !important;
+  }
 }
 
 /*
@@ -448,6 +456,7 @@ Desktop Styles
   aside {
     width: 30%;
     float: left;
+    margin-bottom: 5%;
   }
 
   .main-content {

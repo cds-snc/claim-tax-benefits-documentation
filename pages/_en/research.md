@@ -4,11 +4,38 @@ title: Research
 lang: en
 trans_url: Recherche
 ---
-**Over** the course of the project, we surveyed 152 people, interviewed 82 people, and conducted 11 studies. We’ve conducted studies on:
+Over the course of the partnership, we surveyed 152 people, interviewed 82 people, and conducted 11 studies. Research insights guided product design, leading to iterations in overall information architecture, as well as more granular changes.
 
-* the needs of the population
-* the usability of the service to inform its iterations the use of the service for a larger group of people
-* large-scale surveys to gather quantitative results on the effect of the service
-* testing with real data to see how people react the service as it will be presented 
+Our research team has provided detailed documentation on [hyperlink to each section in<https://docs.google.com/document/d/1Nb7fKtA8ORLsjqnwFkRBpOYFRw7ca0Mo-8o-ddxztos/edit#heading=h.9lmcrpotnr2c>] :
 
-  [Visit the CDS website ](https://digital.canada.ca/)
+### Agile design research methods:how we developed our research insights over time.
+
+How did we use research to make design decisions over time?
+
+How did we adjust our research approach according to agile phases?
+
+Why do we conduct frequent research with small sample sizes?
+
+### Current state insights:what we learned about the motivations behind filing taxes and barriers to filing.
+
+What is the present day situation?
+
+Where are the biggest opportunities for improvement?
+
+Why did we move forward with the current concept ?
+
+### Future state insights:what we learned about designing to meet the needs of tax filers using a self-service option.
+
+What are the qualities of a solution that works?
+
+How does that solution fit into people’s lives?
+
+What additional barriers should be considered?
+
+### Next steps:outstanding questions and areas for learning and improvement of a live MVP service.
+
+What else do we need to know and what is the best way to learn it?
+
+### Methodology overview:detail about each study that contributed to research insights.
+
+What methods were used to answer research questions? Why did we choose those methods?

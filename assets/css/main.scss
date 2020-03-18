@@ -186,7 +186,7 @@ Navigation
 .sidebar-nav > ul > li a:hover,
 .sidebar-nav > ul > li a:focus,
 .sidebar-nav > ul > li a:active,
-.sidebar-nav > ul > .sidebar-nav-active a {
+.sidebar-nav > ul .sidebar-nav-active > a {
   color: #75787b;
   border-left: 4px solid $brandColor;
   background-color: transparent;

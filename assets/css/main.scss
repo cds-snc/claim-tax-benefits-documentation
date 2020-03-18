@@ -15,6 +15,8 @@ $brandColor: #ffcc3d;
 $focusColor: mediumseagreen;
 $lightGrey: #6f6f6f;
 $darkGrey: #424242;
+$blue: #0068bc;
+$darkBlue: #005295;
 
 /*
 Normalize the box model
@@ -124,20 +126,15 @@ Links
 a,
 a:link,
 a:visited {
-  color: #0072ce;
-  border-bottom: 1px dotted #0072ce;
+  color: $blue;
+  border-bottom: 1px dotted $blue;
   text-decoration: none;
 }
 
-a:hover {
-  border-bottom: 1px solid #7eb8dd;
-  color: #7eb8dd;
-  text-decoration: none;
-}
-
+a:hover,
 a:active {
-  border-bottom: 1px solid #002d72;
-  color: #002d72;
+  border-bottom: 1px solid $darkBlue;
+  color: $darkBlue;
   text-decoration: none;
 }
 
@@ -160,7 +157,6 @@ a.title-link {
 }
 
 a.skip-link {
-  color: #0072ce;
   border-bottom: none;
   padding: 0.25em;
 }

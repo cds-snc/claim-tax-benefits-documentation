@@ -222,7 +222,7 @@ Navigation
     padding-left: 30px;
     font-size: 1em;
   }
-  
+
   &:hover a,
   &:focus a,
   &:active a {
@@ -366,6 +366,11 @@ pre {
 td,
 th {
   border: 1px solid grey;
+}
+
+td {
+  width: 50%;
+  vertical-align: baseline;
 }
 /*
 Post list

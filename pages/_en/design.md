@@ -91,10 +91,7 @@ The online channel is a web application via which invited tax-filers can submit 
 * Avoid double barrelled questions which put onus on tax-filers as these can cause confusion and can lead to critical error when completing the service
 * People are easily overwhelmed by tax questions, so we need to ask questions that they immediately believe they can answer
 * A majority of users could not answer two enhanced security questions, meaning an alternative journey should be provided
-*
-
-**Organizational Constraints**
-
+* **Organizational Constraints**
 * Authentication through security questions is required to disclose financial information and provide an Express Notice of Assessment as soon as the return is submitted online
 * The service is unable to automatically pre-screen potential tax-filers since it cannot predict changes in personal circumstances that may make someone ineligible
 
@@ -118,10 +115,11 @@ The online channel is a web application via which invited tax-filers can submit 
 
 The Minimal Viable Product (MVP) is the first iteration of the service. It will be available to selected tax-filers through a pilot or private beta release, with limited features and eligibility criteria.
 
-|     |     |
-| --- | --- |
 
-The MVP will use the ‘lite’ journey.
+
+| Eligibility Criteria                                                                                                                                                      | Features                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>People who earn 12k if under age 65, or 19k if age 65 or above</li><li>Resident of Ontario</li><li>No spouses or dependent children</li><li>No students</li></ul> | <ul><li>File tax return</li><li>Register for Ontario Trillium Benefits</li><li>Register for Climate Action Incentive</li><li>Change address (**Paper Only**)</li><li>Notice of Assessment by mail in up to 2 weeks (online) and 8 weeks (paper)</li></ul> |
 
 ### Mature State
 

@@ -190,6 +190,7 @@ Navigation
   color: #75787b;
   border-left: 4px solid $brandColor;
   background-color: transparent;
+  padding-left: 6px;
 }
 
 .sidebar-nav li:hover,
@@ -197,9 +198,7 @@ Navigation
 .sidebar-nav .sidebar-nav-active {
   padding-left: 0;
 }
-.sidebar-nav a:focus {
-  padding-left: 6px;
-}
+
 .sidebar-nav li:hover a:focus,
 .sidebar-nav li:active a:focus {
   border-left: none;
@@ -218,9 +217,17 @@ Navigation
   border-bottom: none;
 }
 
-.sub-link a {
-  padding-left: 30px !important;
-  font-size: 1em !important;
+.sub-link {
+  a {
+    padding-left: 30px;
+    font-size: 1em;
+  }
+  
+  &:hover a,
+  &:focus a,
+  &:active a {
+    padding-left: 24px !important;
+  }
 }
 
 /*

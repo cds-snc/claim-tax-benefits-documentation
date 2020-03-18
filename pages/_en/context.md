@@ -19,5 +19,5 @@ Several blog posts discuss the work of the partnership:
 Several presentations and a news article also describe the work:
 
 * March 2020 [Code for Canada](https://drive.google.com/drive/folders/1_yVsSYidIMf5TdvLVgDCybmM-8oG9wu7)                                                                                                                
-* \[Our story: why we partnered, what we discovered, how we built the service, and feedback from our users] (<https://docs.google.com/presentation/d/1eniL3Gkf7RMofVwS8rUakvnLgjF1xXZDqeWojcdWqGY/edit?ts=5e3ddaad#slide=id.g7de51ba1e4_1_0>) [](https://docs.google.com/presentation/d/1eniL3Gkf7RMofVwS8rUakvnLgjF1xXZDqeWojcdWqGY/edit?ts=5e3ddaad#slide=id.g7de51ba1e4_1_0)                                                         
+* [Our story: why we partnered, what we discovered, how we built the service, and feedback from our users          ](https://docs.google.com/presentation/d/1eniL3Gkf7RMofVwS8rUakvnLgjF1xXZDqeWojcdWqGY/edit?ts=5e3ddaad#slide=id.g7de51ba1e4_1_0)                                           
 * August 2019  [Canadian Digital Service collaborates with CRA to help modest income taxpayers access benefits](https://www.itworldcanada.com/article/canadian-digital-service-collaborates-with-cra-to-help-modest-income-taxpayers-access-benefits/420767)

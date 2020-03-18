@@ -13,6 +13,8 @@ Variables
 
 $brandColor: #ffcc3d;
 $focusColor: mediumseagreen;
+$lightGrey: #6f6f6f;
+$darkGrey: #424242;
 
 /*
 Normalize the box model
@@ -62,7 +64,7 @@ strong {
   font-size: 1.625em;
   font-family: "Avenir Next", Arial, sans-serif;
   font-weight: normal;
-  color: #919395;
+  color: $lightGrey;
   margin: 0;
   line-height: 1.2941176470588236;
   display: inline-block;
@@ -147,8 +149,14 @@ a:focus {
 }
 
 a.title-link {
-  color: #75787b;
+  color: $lightGrey;
   border-bottom: none;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: #424242;
+  }
 }
 
 a.skip-link {
@@ -179,7 +187,7 @@ Navigation
 .sidebar-nav a,
 .sidebar-nav a:link,
 .sidebar-nav a:visited {
-  color: #75787b;
+  color: $lightGrey;
   border-bottom: none;
 }
 
@@ -187,7 +195,7 @@ Navigation
 .sidebar-nav > ul > li a:focus,
 .sidebar-nav > ul > li a:active,
 .sidebar-nav > ul .sidebar-nav-active > a {
-  color: #75787b;
+  color: $darkGrey;
   border-left: 4px solid $brandColor;
   background-color: transparent;
   padding-left: 6px;
@@ -342,7 +350,7 @@ Style
 */
 
 .intro {
-  color: #75787b;
+  color: $lightGrey;
 }
 
 li h4 {

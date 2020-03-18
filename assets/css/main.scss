@@ -82,7 +82,7 @@ h4 {
 }
 
 .page-title {
-  margin-top: 0.727272727em; /* 16/22 */
+  margin-top: 0.4em; /* 16/32 - .1 (pad it out a bit) */
 }
 
 .float-right {
@@ -222,7 +222,7 @@ Navigation
     padding-left: 30px;
     font-size: 1em;
   }
-  
+
   &:hover a,
   &:focus a,
   &:active a {

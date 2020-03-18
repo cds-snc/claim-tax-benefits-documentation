@@ -39,13 +39,13 @@
           {% if site.logourl != null %}
           <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}" />
           {% endif %}
-          <h1 class="site-title">
+          <div class="site-title">
             <a
               class="title-link"
               href="{{ site.baseurl }}{{ site.data.translations[page.lang].homepage-slug }}"
               >{{site.data.translations[page.lang].site-name }}</a
             >
-          </h1>
+          </div>
           <h2 class="float-right">
             <a href="{{ site.baseurl }}/{{ page.trans_url | slugify }}"
               >{{ site.data.translations[page.lang].language }}</a

@@ -4,9 +4,10 @@ title: Research
 lang: en
 trans_url: Recherche
 ---
+
 Over the course of the partnership, we surveyed 152 people, interviewed 82 people, and conducted 11 studies. Research insights guided product design, leading to iterations in overall information architecture, as well as more granular changes.
 
-Our research team has provided detailed documentation on [hyperlink to each section in<https://docs.google.com/document/d/1Nb7fKtA8ORLsjqnwFkRBpOYFRw7ca0Mo-8o-ddxztos/edit#heading=h.9lmcrpotnr2c>] :
+Our research team has provided detailed documentation in the following document: [CRA Research Documentation](https://docs.google.com/document/d/1Nb7fKtA8ORLsjqnwFkRBpOYFRw7ca0Mo-8o-ddxztos/edit#heading=h.9lmcrpotnr2c).
 
 #### Agile design research methods:how we developed our research insights over time
 
@@ -38,6 +39,6 @@ What else do we need to know and what is the best way to learn it?
 
 #### Methodology overview:detail about each study that contributed to research insights
 
-What methods were used to answer research questions? 
+What methods were used to answer research questions?
 
 Why did we choose those methods?

@@ -36,7 +36,7 @@ What additional barriers should be considered?
 
 What else do we need to know and what is the best way to learn it?
 
-#### Methodology overview:detail about each study that contributed to research insights
+##### Methodology overview:detail about each study that contributed to research insights
 
 What methods were used to answer research questions? 
 

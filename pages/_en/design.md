@@ -24,24 +24,6 @@ Based on these considerations, we developed an invitation only service with both
 
 There is potential to develop an internal tool that CRA staff can use to process the paper form. This tool could then be adapted for processing of other simplified forms.
 
-###### Minimal Viable Product
-
-The Minimal Viable Product (MVP) is the first iteration of the service. It will be available to selected tax-filers through a pilot or private beta release, with limited features and eligibility criteria.
-
-|     |     |
-| --- | --- |
-
-The MVP will use the ‘lite’ journey.
-
-###### Mature State
-
-The mature state is a later iteration with broader eligibility criteria and a wider range of features. These features and criteria will be scaled up incrementally and iteratively.
-
-|     |     |
-| --- | --- |
-
-The mature state will provide both a ‘lite’ and ‘authenticated’ journey within the online channel. Individual tax-filers can opt to answer security questions in order to access more features.
-
 ###### Invitation Letter
 
 CRA will send the invitation letter to select participants to on-board them onto the service. The letter gives context about the service and explains how to access both channels.
@@ -127,3 +109,88 @@ Next Steps
   Implement suggestions from content sub-stream lead
 
 Design a simplified authentication flow using questions that most tax-filers are able to answer so that the CRA can disclose their financial information
+
+### Minimal Viable Product
+
+The Minimal Viable Product (MVP) is the first iteration of the service. It will be available to selected tax-filers through a pilot or private beta release, with limited features and eligibility criteria.
+
+
+<table>
+  <tr>
+   <td><strong>Eligibility Criteria:</strong>
+<ul>
+
+<li>People who earn 12k if under age 65, or 19k if age 65 or above
+
+<li>Resident of Ontario
+
+<li>No spouses or dependent children
+
+<li>No students
+</li>
+</ul>
+   </td>
+   <td><strong>Features:</strong>
+<ul>
+
+<li>File tax return
+
+<li>Register for Ontario Trillium Benefits
+
+<li>Register for Climate Action Incentive
+
+<li>Change address (<strong>Paper Only</strong>)
+
+<li>Notice of Assessment by mail in up to 2 weeks (online) and 8 weeks (paper)
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
+
+The MVP will use the ‘lite’ journey.
+
+
+### Mature State
+
+The mature state is a later iteration with broader eligibility criteria and a wider range of features. These features and criteria will be scaled up incrementally and iteratively. 
+
+
+<table>
+  <tr>
+   <td><strong>Eligibility Criteria:</strong>
+<ul>
+
+<li>People who earn 35k or less
+
+<li>Any province of residence
+
+<li>With spouse and dependent children 
+
+<li>No students
+</li>
+</ul>
+   </td>
+   <td><strong>Features:</strong>
+<ul>
+
+<li>File tax return
+
+<li>Register for Ontario Trillium Benefits
+
+<li>Register for Climate Action Incentive
+
+<li>Change address (paper and authenticated journey only)
+
+<li>Claim charitable donations, political contributions, medical expenses, etc (for people who earn above basic personal amount) 
+
+<li>Notice of assessment immediately (authenticated journey), up to 2 weeks by mail (lite journey) and 8 weeks (paper)
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
+
+The mature state will provide both a ‘lite’ and ‘authenticated’ journey within the online channel. Individual tax-filers can opt to answer security questions in order to access more features. 

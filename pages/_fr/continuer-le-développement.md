@@ -4,6 +4,7 @@ title: Continuer le développement
 lang: fr
 trans_url: Continuing development
 ---
+
 Ce document décrit comment poursuivre le développement avec cette base de code source, en plus de la structure et des technologies utilisées, pour faciliter la remise en vie de ce projet dans le futur.
 
 Il y a principalement deux scénarios envisageabls pour continuer les travaux sur ce _repository_.
@@ -24,7 +25,7 @@ Tout ce dont vous devez faire est de déployer l'application et trouver toutes l
    - L'application sera disponible à l'adresse [http://localhost:3005/](http://localhost:3005/).
 2. Une liste complète des adresses est disponible dans le fichier [`/config/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). L'ordre des adresses correspond à l'ordre d'exécution logique dans l'application.
 
-Tout est bon! Allez vous chercher de la pizza. :pizza:
+Tout est bon! Allez vous chercher de la pizza. <span role="img" aria-label="pizza slice">🍕</span>
 
 ## 2. Reprenons là où nous nous sommes arrêtés.
 

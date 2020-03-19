@@ -101,12 +101,26 @@ Lists
 --------------------------------
 */
 
+ul,
+ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+  li {
+    > ul,
+    ol {
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+    }
+  }
+}
+
 .main-content ul {
   padding-left: 1.1em;
 }
 
 .main-content li {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 li h3,

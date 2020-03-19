@@ -4,7 +4,7 @@ title: Technical overview
 lang: en
 trans_url: Aperçu technique
 childPages:
-  - Sub-page one
+  - Continuing development
 ---
 
 File taxes to access benefits is not a stand alone application, but rather requires a high level of integration with the CRA. The product retrieves individual data from the CRA database, and then displays this data to the tax-filer. The product communicates with the CRA database via an API (application programming interface). API technology allows one system to communicate with another.

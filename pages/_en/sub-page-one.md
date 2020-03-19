@@ -2,7 +2,7 @@
 layout: page
 title: Continuing development
 lang: en
-trans_url: fr Sub-page one
+trans_url: Continuer le développement
 ---
 This document describes how to continue development with this codebase — as well as the app structure and the technologies used — to make it easy to revive this project in the future.
 

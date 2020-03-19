@@ -224,7 +224,6 @@ Navigation
 .sidebar-nav ul {
   margin: 0;
   padding: 0;
-  /*border-top: 1px solid @gray-50;*/
 }
 .sidebar-nav li,
 .sidebar-nav li ul li {
@@ -235,16 +234,19 @@ Navigation
   border-bottom: none;
 }
 
-.sub-link {
+.sidebar-nav > ul .sub-link {
   a {
     padding-left: 30px;
     font-size: 1em;
   }
 
-  &:hover a,
-  &:focus a,
-  &:active a {
-    padding-left: 26px !important;
+  &.sidebar-nav-active,
+  &:hover,
+  &:focus,
+  &:active {
+    > a {
+      padding-left: 26px;
+    }
   }
 }
 

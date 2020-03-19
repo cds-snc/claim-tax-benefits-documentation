@@ -383,7 +383,14 @@ pre {
 
 td,
 th {
-  border: 1px solid grey;
+  border: 1px solid $darkGrey;
+  padding: 0.5em;
+
+  ul,
+  ol {
+    margin: 0;
+    margin-left: 0.25em;
+  }
 }
 
 td {

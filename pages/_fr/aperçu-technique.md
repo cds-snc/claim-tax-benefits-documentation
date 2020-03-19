@@ -4,7 +4,7 @@ title: "Aperçu technique"
 lang: fr
 trans_url: "Technical overview"
 childPages:
-  - fr Sub-page one
+  - Continuer le développement
 ---
 
 The Claim Tax Benefits (CTB) application is a server-side [express](https://expressjs.com/) application using [Pug](https://pugjs.org/api/getting-started.html) templating on the server and schnazzy [SCSS](https://sass-lang.com/) stylesheets.

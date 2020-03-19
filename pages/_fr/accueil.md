@@ -2,7 +2,7 @@
 layout: page
 title: Accueil
 lang: fr
-trans_url: Welcome
+trans_url: Information about File taxes to access benefits
 ---
 
 _[File taxes to access benefits](https://claim-tax-benefits.azurewebsites.net/start)_ is a web-based demonstration of a service to make tax filing faster and easier for eligible low-income Canadians.

@@ -2,4 +2,4 @@
 
 The service includes both online and paper channels. Both channels are under development and cannot be used to file taxes at this time.
 
-[While the online repository is no longer actively maintained](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/CONTINUING-DEVELOPMENT.md)**,** the code is open source and in the public domain — all are free to clone and use it.
+[While the online repository is no longer actively maintained](/continuing-development/)**,** the code is open source and in the public domain — all are free to clone and use it.

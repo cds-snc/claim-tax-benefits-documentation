@@ -63,14 +63,13 @@ strong {
 }
 
 .site-title {
-  font-size: 1.625em;
+  font-size: 1.33em;
   font-family: "Avenir Next", Arial, sans-serif;
   font-weight: normal;
   color: $lightGrey;
   margin: 0;
+  margin-bottom: 0.5em;
   line-height: 1.2941176470588236;
-  display: inline-block;
-  width: 70%;
 }
 
 h2 {
@@ -90,10 +89,8 @@ h4 {
 }
 
 .float-right {
-  display: inline-block;
-  width: 25%;
+  font-size: 1em;
   margin: 0;
-  text-align: right;
 }
 
 /*
@@ -468,7 +465,7 @@ Desktop Styles
 ==================================
 */
 
-@media screen and (min-width: 45em) and (min-height: 32.5em) {
+@media screen and (min-width: 45em) {
   /*
     Typography
     ==============================
@@ -478,6 +475,21 @@ Desktop Styles
     Layout
     ==============================
     */
+
+  .site-title {
+    font-size: 1.625em;
+    line-height: 1.2941176470588236;
+    display: inline-block;
+    margin-bottom: 0;
+    width: 70%;
+  }
+
+  .float-right {
+    font-size: 1.375em;
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+  }
 
   .logo {
     max-width: 30%;

@@ -63,14 +63,13 @@ strong {
 }
 
 .site-title {
-  font-size: 1.625em;
+  font-size: 1.33em;
   font-family: "Avenir Next", Arial, sans-serif;
   font-weight: normal;
   color: $lightGrey;
   margin: 0;
+  margin-bottom: 0.5em;
   line-height: 1.2941176470588236;
-  display: inline-block;
-  width: 70%;
 }
 
 h2 {
@@ -90,10 +89,8 @@ h4 {
 }
 
 .float-right {
-  display: inline-block;
-  width: 25%;
+  font-size: 1em;
   margin: 0;
-  text-align: right;
 }
 
 /*
@@ -188,11 +185,14 @@ Navigation
 ==================================
 */
 
+.sidebar-nav {
+  margin-left: -4px;
+}
 .sidebar-nav a {
   display: block;
-  padding: 10px;
+  padding: 0.5em;
+  padding-left: 0;
   border-left: 4px solid transparent;
-  font-size: 1.125em;
 }
 .sidebar-nav a,
 .sidebar-nav a:link,
@@ -230,7 +230,10 @@ Navigation
   list-style: none;
   border-bottom: 1px solid #babbbd;
 }
-.sidebar-nav li:last-child {
+.sidebar-nav li:first-child {
+  border-top: 1px solid #babbbd;
+}
+.sidebar-nav ul ul li:last-child {
   border-bottom: none;
 }
 
@@ -363,6 +366,7 @@ Style
 
 .intro {
   color: $lightGrey;
+  display: none;
 }
 
 li h4 {
@@ -468,7 +472,7 @@ Desktop Styles
 ==================================
 */
 
-@media screen and (min-width: 45em) and (min-height: 32.5em) {
+@media screen and (min-width: 45em) {
   /*
     Typography
     ==============================
@@ -478,6 +482,21 @@ Desktop Styles
     Layout
     ==============================
     */
+
+  .site-title {
+    font-size: 1.625em;
+    line-height: 1.2941176470588236;
+    display: inline-block;
+    margin-bottom: 0;
+    width: 70%;
+  }
+
+  .float-right {
+    font-size: 1.375em;
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+  }
 
   .logo {
     max-width: 30%;
@@ -489,6 +508,18 @@ Desktop Styles
     width: 30%;
     float: left;
     margin-bottom: 5%;
+
+    .intro {
+      display: block;
+    }
+  }
+
+  .sidebar-nav a {
+    font-size: 1.1em;
+  }
+
+  .sidebar-nav li:first-child {
+    border-top: none;
   }
 
   .main-content {

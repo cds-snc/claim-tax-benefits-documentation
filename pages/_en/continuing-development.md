@@ -23,7 +23,7 @@ All you need to do here is run the app and then find all the URLs.
 1. First, get it to boot up.
    - Check out "[Build and run](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run)" in the README.
    - The app will be running at [http://localhost:3005/](http://localhost:3005/).
-2. A full list of URLs can be found in [`/config/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). They're pretty much in order, so you can see them all sequentially.
+2. A full list of URLs can be found in [`/config`<wbr>`/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). They're pretty much in order, so you can see them all sequentially.
 
 All good! Get yerself pizza. <span role="img" aria-label="pizza slice">🍕</span>
 
@@ -43,23 +43,23 @@ Hooray! Welcome to the hippest app in gov!! To pick up development after some ar
 
 ### Repository structure
 
-| Folder               | Purpose                                                                                          |
-| -------------------- | ------------------------------------------------------------------------------------------------ |
-| `/.github/workflows` | CI/CD pipelines/workflows                                                                        |
-| `/api`               | Domain model (check out `user.json`)                                                             |
-| `/bin`               | Runtime script for Node.js                                                                       |
-| `/config`            | Configurations for the npm modules/middleware used                                               |
-| `/cypress`           | End to end test fixtures and integrations                                                        |
-| `/db`                | Conceptually, this is our cloud DB with access codes                                             |
-| `/docs`              | Technical documentation                                                                          |
-| `/locales`           | Internationalization (i18n) keys to support both English and French official languages           |
-| `/public`            | Static resources (images, scripts, stylesheets, favicon): all our styling is in `/public/scss`.  |
-| `/routes`            | Controllers (routes and business logic) and unit tests                                           |
-| `/schemas`           | Schemas for form validation for our POST routes                                                  |
-| `/scripts`           | Azure and HashiCorp Terraform scripts for Infrastructure as Code (IaC)                           |
-| `/utils`             | Utility functions and [express middleware](https://expressjs.com/en/guide/using-middleware.html) |
-| `/views`             | [Pug](https://pugjs.org/api/getting-started.html) view files that translate to HMTL at runtime   |
-| `/xml_output`        | Very early attempt at a NETFILE XML template                                                     |
+| Folder                      | Purpose                                                                                          |
+| --------------------------- | ------------------------------------------------------------------------------------------------ |
+| `/.github`<wbr>`/workflows` | CI/CD pipelines<wbr>/workflows                                                                   |
+| `/api`                      | Domain model (check out `user.json`)                                                             |
+| `/bin`                      | Runtime script for Node.js                                                                       |
+| `/config`                   | Configurations for the npm modules<wbr>/middleware used                                          |
+| `/cypress`                  | End to end test fixtures and integrations                                                        |
+| `/db`                       | Conceptually, this is our cloud DB with access codes                                             |
+| `/docs`                     | Technical documentation                                                                          |
+| `/locales`                  | Internationalization (i18n) keys to support both English and French official languages           |
+| `/public`                   | Static resources (images, scripts, stylesheets, favicon): all our styling is in `/public/scss`.  |
+| `/routes`                   | Controllers (routes and business logic) and unit tests                                           |
+| `/schemas`                  | Schemas for form validation for our POST routes                                                  |
+| `/scripts`                  | Azure and HashiCorp Terraform scripts for Infrastructure as Code (IaC)                           |
+| `/utils`                    | Utility functions and [express middleware](https://expressjs.com/en/guide/using-middleware.html) |
+| `/views`                    | [Pug](https://pugjs.org/api/getting-started.html) view files that translate to HMTL at runtime   |
+| `/xml_output`               | Very early attempt at a NETFILE XML template                                                     |
 
 ### Technology Choices
 

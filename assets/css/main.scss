@@ -432,10 +432,41 @@ Repo list
 ul.repo-list {
   margin: 0.5em 0 1em 0;
   padding: 0;
+  display: flex;
 }
 
 .repo-list li {
   list-style: none;
+  display: block;
+  float: left;
+  background-color: #e7e7e6;
+  border-left: 1px solid #babbbd;
+  width: 80%;
+  max-width: 240px;
+
+  &:first-child {
+    text-align: center;
+    border-left: none;
+    line-height: 60px;
+    padding: 0.625em 1em;
+    width: 20%;
+    max-width: 70px;
+  }
+}
+
+.repo-list a {
+  &:link,
+  &:visited {
+    display: block;
+    background-color: #e7e7e6;
+    border-bottom: none;
+    padding: 0.625em 1em 1em 1em;
+  }
+
+  &:hover {
+    color: #4d5f87;
+    background-color: #cde3f1;
+  }
 }
 
 .repo-list p {
@@ -446,11 +477,6 @@ ul.repo-list {
 .repo-list h4 {
   text-transform: none;
 }
-
-/*
-Helper Classes
-==================================
-*/
 
 /*
 Clearfix list
@@ -536,56 +562,12 @@ Desktop Styles
     font-size: 1em;
   }
 
-  /*
-    Repo list
-    ------------------------------
-    */
-
   .repo-list li {
-    list-style: none;
-    display: block;
-    float: left;
-    height: 4.0625em;
-    max-height: 4.0625em;
-    background-color: #e7e7e6;
-    border-left: 1px solid #babbbd;
-    width: 30%;
-  }
+    width: 35%;
 
-  .repo-list a:link,
-  .repo-list a:visited {
-    display: block;
-    max-height: 4.0625em;
-    background-color: #e7e7e6;
-    border-bottom: none;
-    padding: 0.625em 1em 1em 1em;
-  }
-
-  .repo-list a:hover {
-    color: #4d5f87;
-    background-color: #cde3f1;
-  }
-
-  .repo-list li:first-child {
-    text-align: center;
-    border-left: none;
-    line-height: 60px;
-    padding: 0.625em 1em;
-    width: 10%;
-  }
-}
-
-@media screen and (max-width: 54.375em) and (min-height: 32.5em) {
-  /* keep the repo list containers the same height, but account for the need for more height */
-
-  .repo-list li {
-    height: 6em;
-    max-height: 6em;
-  }
-
-  .repo-list a:link,
-  .repo-list a:visited {
-    max-height: 6em;
+    &:first-child {
+      width: 10%;
+    }
   }
 }
 

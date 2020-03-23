@@ -38,7 +38,7 @@ Hooray! Welcome to the hippest app in gov!! To pick up development after some ar
    - Go see "[Run tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests)" in the README.
 3. Update all the dependencies we're using, as many will be out of date.
    - Follow the [Updating dependencies](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md) process we have
-   - Fingers crossed it all works :fingers-crossed:
+   - Fingers crossed it all works <span role="img" aria-label="crossed fingers">🤞</span> 
 4. Heck yeah! Get devving!!!
 
 ### Repository structure

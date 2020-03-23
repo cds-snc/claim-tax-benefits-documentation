@@ -4,7 +4,7 @@ title: Design
 lang: en
 trans_url: Conception
 ---
-### Our service design was informed by best practices and research insights. Research showed that tax-filers need to:
+Our service design was informed by best practices and research insights. Research showed that tax-filers need to:
 
 * be able to file without travelling for help
 * feel confident that they will not get in trouble if they do their taxes alone
@@ -91,7 +91,8 @@ The online channel is a web application via which invited tax-filers can submit 
 * Avoid double barrelled questions which put onus on tax-filers as these can cause confusion and can lead to critical error when completing the service
 * People are easily overwhelmed by tax questions, so we need to ask questions that they immediately believe they can answer
 * A majority of users could not answer two enhanced security questions, meaning an alternative journey should be provided
-* **Organizational Constraints**
+
+**Organizational Constraints**
 * Authentication through security questions is required to disclose financial information and provide an Express Notice of Assessment as soon as the return is submitted online
 * The service is unable to automatically pre-screen potential tax-filers since it cannot predict changes in personal circumstances that may make someone ineligible
 

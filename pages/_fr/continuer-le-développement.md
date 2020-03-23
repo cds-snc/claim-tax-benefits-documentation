@@ -23,7 +23,7 @@ Tout ce dont vous devez faire est de déployer l'application et trouver toutes l
 1. Premièrement, déployez l'application.
    - Consultez la page "[Construire et déployer](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run)" dans le `README`.
    - L'application sera disponible à l'adresse [http://localhost:3005/](http://localhost:3005/).
-2. Une liste complète des adresses est disponible dans le fichier [`/config/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). L'ordre des adresses correspond à l'ordre d'exécution logique dans l'application.
+2. Une liste complète des adresses est disponible dans le fichier [`/config`<wbr>`/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). L'ordre des adresses correspond à l'ordre d'exécution logique dans l'application.
 
 Tout est bon! Allez vous chercher de la pizza. <span role="img" aria-label="pizza slice">🍕</span>
 
@@ -43,23 +43,23 @@ Houra! Bienvenue dans l'application la plus branchée du Gouvernement!! Pour pou
 
 ### Structure du _repository_
 
-| Répertoire           | Usage                                                                                                                  |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `/.github/workflows` | Pipelines d'intégration et livraison continue                                                                          |
-| `/api`               | Modèle (voir `user.json`)                                                                                              |
-| `/bin`               | Script d'exécution pour Node.js                                                                                        |
-| `/config`            | Configurations des modules / middleware npm utilisés                                                                   |
-| `/cypress`           | Tests et intégrations de bout en bout                                                                                  |
-| `/db`                | Conceptuellement, il s'agit de notre base de données cloud avec des codes d'accès                                      |
-| `/docs`              | Documentation technique                                                                                                |
-| `/locales`           | Fichiers de traductions pour les langues officielles (français et anglais)                                             |
-| `/public`            | Ressources statiques (images, scripts, feuilles de styles, icône de favori): tous les styles sont sous `/public/scss`. |
-| `/routes`            | Controlleurs (routes and logique métier) et tests unitaires                                                            |
-| `/schemas`           | Schémas pour la validation des soumissons de formulaires (`HTTP POST`)                                                 |
-| `/scripts`           | Scripts Azure et HashiCorp Terraform scripts pour _Infrastructure as Code (IaC)_                                       |
-| `/utils`             | Fonctions utilitaires et [middleware express](https://expressjs.com/en/guide/using-middleware.html)                    |
-| `/views`             | Fichiers de vue [Pug](https://pugjs.org/api/getting-started.html) qui se transpose en HMTL à l'exécution               |
-| `/xml_output`        | Tentative très précoce d'un modèle XML IMPÔTNET                                                                        |
+| Répertoire                  | Usage                                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `/.github`<wbr>`/workflows` | Pipelines d'intégration et livraison continue                                                                          |
+| `/api`                      | Modèle (voir `user.json`)                                                                                              |
+| `/bin`                      | Script d'exécution pour Node.js                                                                                        |
+| `/config`                   | Configurations des modules / middleware npm utilisés                                                                   |
+| `/cypress`                  | Tests et intégrations de bout en bout                                                                                  |
+| `/db`                       | Conceptuellement, il s'agit de notre base de données cloud avec des codes d'accès                                      |
+| `/docs`                     | Documentation technique                                                                                                |
+| `/locales`                  | Fichiers de traductions pour les langues officielles (français et anglais)                                             |
+| `/public`                   | Ressources statiques (images, scripts, feuilles de styles, icône de favori): tous les styles sont sous `/public/scss`. |
+| `/routes`                   | Controlleurs (routes and logique métier) et tests unitaires                                                            |
+| `/schemas`                  | Schémas pour la validation des soumissons de formulaires (`HTTP POST`)                                                 |
+| `/scripts`                  | Scripts Azure et HashiCorp Terraform scripts pour _Infrastructure as Code (IaC)_                                       |
+| `/utils`                    | Fonctions utilitaires et [middleware express](https://expressjs.com/en/guide/using-middleware.html)                    |
+| `/views`                    | Fichiers de vue [Pug](https://pugjs.org/api/getting-started.html) qui se transpose en HMTL à l'exécution               |
+| `/xml_output`               | Tentative très précoce d'un modèle XML IMPÔTNET                                                                        |
 
 ### Choix technologiques
 

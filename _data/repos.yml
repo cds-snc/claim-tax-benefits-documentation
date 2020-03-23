@@ -4,5 +4,5 @@ en:
     url: https://github.com/cds-snc/cra-claim-tax-benefits
 fr:
   - name: cra-claim-tax-benefits
-    description: (fr) A benefit signup prototype
+    description: un prototype d’inscription aux prestations
     url: https://github.com/cds-snc/cra-claim-tax-benefits

@@ -63,15 +63,14 @@ Chaques demandes de tirage subit une suite de tests automatisés.
 
 ### Continuer le développement
 
-[Guide pour continuer le développement du produit](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/CONTINUING-DEVELOPMENT.md#continuer-le-d%C3%A9veloppement) : Ce guide pour vous aider si vous désirez re-bâtir le service avec un nouvelle technologie ou développer et déployer le code.
+[Guide pour continuer le développement du produit](https://crazee-docs.netlify.com/continuer-le-d%C3%A9veloppement/) : Ce guide pour vous aider si vous désirez re-bâtir le service avec un nouvelle technologie ou développer et déployer le code.
 
 ## Bâtir et exécuter l’application
 
 Veuillez vous référer à la page [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md) afin d’obtenir les instructions détaillées pour bâtir et exécuter l’application.
 
 - [Pour débuter](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#getting-started-npm) (anglais seulement)
-- - [Bâtir et exécuter](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#build-and-run) (anglais seulement)
+  - [Bâtir et exécuter](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#build-and-run) (anglais seulement)
   - [Exécuter les tests](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#run-tests) (anglais seulement)
 - [Utiliser Docker](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-docker) (anglais seulement)
-
-**[Deployer l’application](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/DEPLOY.md#ex%C3%A9cuter-un-d%C3%A9ploiement-manuel)**
+- [Deployer l’application](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/DEPLOY.md#ex%C3%A9cuter-un-d%C3%A9ploiement-manuel)

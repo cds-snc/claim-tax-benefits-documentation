@@ -27,7 +27,7 @@ Les risques sont élevés dû au fait que la base de données de l’ARC utilise
 
 ## Aperçu technique
 
-L’application Déclaration de revenus pour un accès aux prestations (DRAP) est une application [express](https://expressjs.com/fr/) du côté serveur qui utilise le langage [Pug](https://pugjs.org/api/getting-started.html) pour les gabarits et [SCSS](https://sass-lang.com/) pour les feuilles de styles. L'échafaudage de l’application vient du [Générateur d’applications Express](https://expressjs.com/fr/starter/generator.html). Il assume l’existence d’un API (backend) pour recevoir les données de l’utilisateur et d’une base de données infonuagique pour y stocker les codes d’accès, tous deux écrasés afin que l’application puisse fonctionner de façon isolée pour le développement.
+L’application Déclaration de revenus pour un accès aux prestations (DRAP) est une application [express](https://expressjs.com/fr/) du côté serveur qui utilise le langage [Pug](https://pugjs.org/api/getting-started.html) pour les gabarits et [SCSS](https://sass-lang.com/) pour les feuilles de styles. L'échafaudage de l’application vient du [Générateur d’applications Express](https://expressjs.com/fr/starter/generator.html). Il assume l’existence d’un API (backend) pour recevoir les données de l’utilisateur et d’une base de données infonuagique pour y stocker les codes d’accès, tous deux simulés afin que l’application puisse fonctionner de façon isolée pour le développement.
 
 L’application (DRAP) met en oeuvre plusieurs pratiques recommandées pour le développement d’applications modernes.
 

@@ -38,7 +38,7 @@ Houra! Bienvenue dans l'application la plus branchée du Gouvernement!! Pour pou
    - Voir "[Exécuter les tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests)" dans le `README`.
 3. Mettez à jour toutes les dépendances de l'application puisqu'elles ne seront définitivement plus à jour.
    - Consultez le [processus de mise à jour des dépendances](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md#mettre-à-jour-les-dépendances)
-   - Croisez-vous les doigts et espérez que ça fonctionne :fingers-crossed:
+   - Croisez-vous les doigts et espérez que ça fonctionne <span role="img" aria-label="doigts croisés">🤞</span>
 4. Super! Démarrez le développement!!
 
 ### Structure du _repository_

@@ -36,7 +36,7 @@ CRA will send the invitation letter to select participants to on-board them onto
 
 **Organizational Constraints**
 
-Printing:
+Printing
 
 * The CRA printing services face several limitations, in particular the ability to include boxes or customized information (i.e. location of personal access code) in the body of the letter. 
 * Due to timelines, we were unable to create a dynamic field to display the personal access code in the letter. The current process requires approximately 12-15 months in order to incorporate this field, or to create a similar field for display of the tax-filer’s name in the paper form.

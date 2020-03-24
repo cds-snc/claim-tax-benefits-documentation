@@ -21,7 +21,7 @@ Based on these considerations, we developed an invitation only service with both
 * an online tool which allows people to file taxes through a website, and which can take the form of:
 
   * a ‘lite’ journey that requires no security questions and no corresponding disclosure of financial information. Tax-filers must wait two weeks to receive their notice of assessment by mail.
-  * an ‘authenticated’ journey which requires answering security questions and disclosure of financial information. Tax-filers will receive an immediate online notice of assessment.
+  * an ‘authenticated’ journey which requires answering security questions and disclosure of financial information. Tax-filers will receive an immediate notice of assessment online.
 
 There is potential to develop an internal tool that CRA staff can use to process the paper form. This tool could then be adapted for processing of other simplified forms.
 
@@ -38,14 +38,14 @@ CRA will send the invitation letter to select participants to on-board them onto
 
 Printing:
 
-* The CRA printing services face several limitations, in particular the inability to include boxes or customized information (i.e. location of personal access code) in the body of the letter.
-* Due to timelines, the CRA print-to-mail teams were unable to create a dynamic field to display the personal access code in the letter. The CRA requires approximately 12-15 months in order to incorporate this field, or to create a similar field for display of the tax-filer’s name in the paper form.
-* The tax-filer’s name must appear on the form to ensure that the individual does not provide their form to another person who is not eligible to use this service. The team has initiated discussion of this issue with the Messaging Outputs and Interface (MOI) Section in the Information Technology Branch.
+* The CRA printing services face several limitations, in particular the ability to include boxes or customized information (i.e. location of personal access code) in the body of the letter. 
+* Due to timelines, we were unable to create a dynamic field to display the personal access code in the letter. The current process requires approximately 12-15 months in order to incorporate this field, or to create a similar field for display of the tax-filer’s name in the paper form.
+* The tax-filer’s name must appear on the form to ensure that the individual does not provide their form to another person who is not eligible to use this service. The team has initiated discussions with the appropriate areas.
 
-Electronic notifications
+Electronic notifications 
 
-* At this time, it is not possible to notify tax-filer’s of this service by email to their MyAccount inbox.
-* We are unable to provide personalised information such as the access code in the letter for security reasons. This requires further examination in collaboration with the Authentication Management Services Section and the Digital Notifications and Submit Documents Section.
+* At this time, it is not possible to notify tax-filer’s of this service by email to their My Account. 
+* We are unable to provide personalised information such as the access code in the letter for security reasons. This requires further examination in collaboration with the appropriate areas.
 
 **Design Interventions**
 
@@ -57,7 +57,7 @@ Electronic notifications
 * Work with the CRA team responsible for printing to display the options in a table
 * Determine how to notify tax-filers using MyAccount. It may also be possible to allow direct log-in through My Account without an access code.
 
-## Paper Channel
+## Paper Form
 
 The paper channel is a simplified form submitted by mail as a tax return.
 
@@ -82,7 +82,7 @@ The paper channel is a simplified form submitted by mail as a tax return.
 * Stress test a completed form with the processing team to confirm the form can be used to file a tax return
 * Investigate potential for building internal tool to streamline processing.
 
-## Online Channel
+## Online Tool
 
 The online channel is a web application via which invited tax-filers can submit their return.
 
@@ -93,6 +93,7 @@ The online channel is a web application via which invited tax-filers can submit 
 * A majority of users could not answer two enhanced security questions, meaning an alternative journey should be provided
 
 **Organizational Constraints**
+
 * Authentication through security questions is required to disclose financial information and provide an Express Notice of Assessment as soon as the return is submitted online
 * The service is unable to automatically pre-screen potential tax-filers since it cannot predict changes in personal circumstances that may make someone ineligible
 
@@ -114,7 +115,7 @@ The online channel is a web application via which invited tax-filers can submit 
 
 ### Minimal Viable Product
 
-The Minimal Viable Product (MVP) is the first iteration of the service. It will be available to selected tax-filers through a pilot or private beta release, with limited features and eligibility criteria.
+The Minimal Viable Product (MVP) is the first iteration of the service. We had intended the MVP to be available to selected tax-filers through a pilot or private beta release, with limited features and eligibility criteria.
 
 <table>
   <tbody>
@@ -134,10 +135,10 @@ The Minimal Viable Product (MVP) is the first iteration of the service. It will 
       <td>
         <ul>
           <li>File tax return</li>
-          <li>Register for Ontario Trillium Benefits</li>
-          <li>Register for Climate Action Incentive</li>
+          <li>Register for Ontario trillium benefits</li>
+          <li>Register for Climate action incentive</li>
           <li>Change address (<strong>paper only</strong>)</li>
-          <li>Notice of Assessment by mail in up to 2 weeks (online) and 8 weeks (paper)</li>
+          <li>Notice of assessment by mail in up to 2 weeks (online) and 8 weeks (paper)</li>
         </ul>
       </td>
     </tr>
@@ -168,8 +169,8 @@ The mature state is a later iteration with broader eligibility criteria and a wi
       <td>
         <ul>
           <li>File tax return</li>
-          <li>Register for Ontario Trillium Benefits</li>
-          <li>Register for Climate Action Incentive</li>
+          <li>Register for Ontario trillium benefits</li>
+          <li>Register for Climate action incentive</li>
           <li>Change address (<strong>paper and authenticated journey only</strong>)</li>
           <li>Claim charitable donations, political contributions, medical expenses, etc (for people who earn above basic personal amount)</li>
           <li>Notice of assessment immediately (authenticated journey), up to 2 weeks by mail (lite journey) and 8 weeks (paper)</li>

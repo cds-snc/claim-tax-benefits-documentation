@@ -44,7 +44,7 @@ Printing
 
 Electronic notifications 
 
-* At this time, it is not possible to notify tax-filer’s of this service by email to their My Account. 
+* At this time, it is not possible to notify tax-filers of this service by email to their My Account. 
 * We are unable to provide personalised information such as the access code in the letter for security reasons. This requires further examination in collaboration with the appropriate areas.
 
 **Design Interventions**

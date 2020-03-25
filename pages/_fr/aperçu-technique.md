@@ -28,8 +28,6 @@ Une fois que le déclarant s’est authentifié, l’API envoie les données à 
 
 L’application Réclamation d’avantages fiscaux (RAF) est une application [express](https://expressjs.com/fr/) côté serveur qui utilise les langages [Pug](https://pugjs.org/api/getting-started.html) pour les gabarits et [SCSS](https://sass-lang.com/) pour les feuilles de styles. L’échafaudage de l’application vient du [générateur d’applications Express](https://expressjs.com/fr/starter/generator.html). Il suppose l’existence d’une API backend (qui reçoit les données de l’utilisateur) et d’une base de données infonuagique (qui stocke les codes d’accès), bien que tous deux soient simulés afin que l’application puisse fonctionner de façon isolée pour le développement.
 
-Comme il est mentionné dans l’introduction, l’application RAF met en œuvre plusieurs pratiques recommandées pour le développement de services Web modernes.
-
 L’application RAF met en œuvre plusieurs pratiques recommandées pour le développement de services Web modernes.
 
 * L’application représente un parcours utilisateur complet

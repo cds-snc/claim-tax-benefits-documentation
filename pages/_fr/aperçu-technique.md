@@ -19,10 +19,10 @@ Une fois que le déclarant s’est authentifié, l’API envoie les données à 
 
 * [Aperçu technique](https://crazee-docs.netlify.com/aperçu-technique/#aperçu-technique)
 
-  * [L’utilisation de services de tierce partie](https://crazee-docs.netlify.com/aperçu-technique/#lutilisation-de-services-de-tierce-partie)
+  * [Utilisation de services tiers](https://crazee-docs.netlify.com/aperçu-technique/#utilisation-de-services-tiers)
   * [Tests automatisés](https://crazee-docs.netlify.com/aperçu-technique/#tests-automatisés)
   * [Continuer le développement](https://crazee-docs.netlify.com/aperçu-technique/#continuer-le-développement)
-* [Bâtir et exécuter l’application](https://crazee-docs.netlify.com/aperçu-technique/#bâtir-et-exécuter-lapplication)
+* [Construire et exécuter l’application](https://crazee-docs.netlify.com/aperçu-technique/#construire-et-exécuter-lapplication)
 
 ## Aperçu technique
 

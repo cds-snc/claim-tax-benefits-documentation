@@ -4,22 +4,12 @@ title: Accueil
 lang: fr
 trans_url: Information about File taxes to access benefits
 ---
+[Réclamation d'avantages fiscaux](https://claim-tax-benefits.azurewebsites.net/start) est un service visant à rendre la production des déclarations de revenus plus rapide et plus facile, de sorte que les Canadiens et les Canadiennes à faible revenu puissent avoir accès à des crédits et à des prestations. Ce service a été conçu et développé par le [Service numérique canadien (SNC)](https://numerique.canada.ca/) en partenariat avec l’[Agence du revenu du Canada (ARC)](https://www.canada.ca/fr/agence-revenu.html).
 
-_[File taxes to access benefits](https://claim-tax-benefits.azurewebsites.net/start)_ is a web-based demonstration of a service to make tax filing faster and easier for eligible low-income Canadians.
+Le service comprend à la fois une version en ligne et une version papier. Pour l’instant, les deux versions sont en cours de développement et ne peuvent pas être utilisées pour produire une déclaration de revenus.
 
-{% if site.repos %} {% include repositories.html %}
-{% endif %}\
-File taxes to access benefits \[hyperlink] aims to ease tax-filingfor low income Canadians so they can access credits and benefits. The Canadian Digital Service (CDS) \[hyperlink] and the Canada Revenue Agency (CRA) \[hyperlink] partnered to build this open source service, which includes both online and paper channels.
+L’équipe qui a travaillé sur le service était connue sous le nom *Réclamation d’avantages fiscaux*. Le nom du service proprement dit est en cours d’élaboration. En réponse aux premiers résultats de recherche, le produit utilise actuellement le nom *Déclaration de revenus pour un accès aux prestations*. D’autres travaux sont nécessaires pour finaliser le nom.
 
-The service is under development. It cannot be used to file taxes at this time.
+Pour une question d’uniformité, le présent site Web parle du service en utilisant le nom *Réclamation d’avantages fiscaux*.
 
-This website provides information about the service. Here you can find links to documents about:
-
-- the context for the service
-- research findings
-- design decisions
-- technical architecture
-- next steps
-- contacts for further information
-
-The section on design decisions includes a link to each service touchpoint.
+Même si le [dépôt en ligne](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/CONTINUING-DEVELOPMENT.md) n’est plus activement mis à jour, le code source est libre et dans le domaine public. Tout le monde est libre de le cloner et de l’utiliser.

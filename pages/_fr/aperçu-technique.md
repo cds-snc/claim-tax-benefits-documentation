@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aperçu thnique
+title: Aperçu technique
 lang: fr
 trans_url: Technical overview
 childPages:

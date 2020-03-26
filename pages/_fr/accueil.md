@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accueil
+title: À propos du service Réclamation d’avantages fiscaux
 lang: fr
 trans_url: Information about File taxes to access benefits
 ---

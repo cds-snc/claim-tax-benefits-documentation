@@ -33,8 +33,6 @@ L’ARC enverra la lettre d’invitation pour sélectionner des participants et 
 * La lettre d’invitation doit expliquer le contexte du service, présenter les options offertes (version papier ou en ligne) de façon évidente et préciser les contraintes d’utilisation du service.
 * La lettre doit être dans un format pouvant être envoyé par la poste ou par courriel, selon le choix des personnes. Les notifications électroniques sont particulièrement importantes pour les déclarants qui utilisent des lecteurs d’écran.
 
-
-
 **Contraintes organisationnelles**
 
 Impression :
@@ -93,8 +91,6 @@ L’outil en ligne est une application Web permettant aux déclarants invités d
 * Les personnes sont facilement dépassées par les questions sur le revenu, alors il faut poser des questions auxquelles elles croient pouvoir répondre facilement.
 * La plupart des utilisateurs n’ont pas pu répondre à deux questions de sécurité renforcée, ce qui signifie qu’un parcours différent doit être proposé.
 
-
-
 **Contraintes organisationnelles**
 
 * Une authentification basée sur des questions de sécurité est requise pour pouvoir divulguer des informations financières et émettre un avis de cotisation immédiatement après l’envoi de la déclaration de revenus en ligne.
@@ -110,11 +106,9 @@ L’outil en ligne est une application Web permettant aux déclarants invités d
 
 **Prochaines étapes**
 
-* Appliquer les suggestions du responsable de la sous-communauté de la conception de contenu \[hyperlien].
+* Appliquer les suggestions du responsable de la sous-communauté de la conception de contenu.
 * Faire d’autres tests de contenu.
 * Concevoir un processus d’authentification simplifié à l’aide de questions auxquelles la majorité des déclarants peuvent répondre, afin que l’ARC puisse divulguer leurs renseignements financiers.
-
-
 
 ## États du produit
 
@@ -122,26 +116,16 @@ L’outil en ligne est une application Web permettant aux déclarants invités d
 
 Le produit minimal viable est la première itération du service. Nous prévoyions le mettre à la disposition de déclarants sélectionnés au moyen d’une version bêta pilote ou privée ayant des fonctionnalités et des critères d’admissibilité limités.
 
-
-
 |     |     |
 | --- | --- |
 
-
-
 Le produit minimal viable emploiera le parcours « allégé ».
-
-
 
 ### État mature
 
 Le produit dont l’état est mature renvoie à une itération ultérieure avec des critères d’admissibilités plus larges et plus de fonctionnalités. Ces critères et fonctionnalités seront élargis de façon progressive et itérative.
 
-
-
 |     |     |
 | --- | --- |
-
-
 
 Le produit à l’état mature fournira à la fois un parcours « allégé » et « authentifié » pour la version en ligne. Les déclarants pourront choisir de répondre aux questions de sécurité pour avoir accès à plus de fonctionnalités.

@@ -18,7 +18,7 @@ Based on these considerations, we developed an invitation only service with both
 
 * a letter inviting people to use this service,
 * a paper form for people who will not file online
-* an online tool which allows people to file taxes through a website, and which can take the form of:
+* an [online tool](https://claim-tax-benefits.azurewebsites.net/start) which allows people to file taxes through a website, and which can take the form of:
 
   * a ‘lite’ journey that requires no security questions and no corresponding disclosure of financial information. Tax-filers must wait two weeks to receive their notice of assessment by mail.
   * an ‘authenticated’ journey which requires answering security questions and disclosure of financial information. Tax-filers will receive an immediate notice of assessment online.
@@ -107,7 +107,7 @@ The online channel is a web application via which invited tax-filers can submit 
 
 **Next Steps**
 
-* Implement suggestions from content design sub-stream lead \[hyperlink to document]
+* Implement [suggestions](https://docs.google.com/document/d/1hTQGwOISwFgRQKcY333JJS5AIeIN_RlbMU1VbhrmCqc/edit) from content design sub-stream lead \[hyperlink to document]
 * Additional user testing
 * Design a simplified authentication flow using questions that most tax-filers are able to answer so that the CRA can disclose their financial information
 

@@ -5,18 +5,16 @@ lang: en
 trans_url: Continuer le développement
 ---
 
-This document describes how to continue development with this codebase — as well as the app structure and the technologies used — to make it easy to revive this project in the future.
+This document describes how to continue development with this codebase — as well as the app structure and the technologies used — to make it easy to revive this work in the future.
 
-Anyone looking to continue development on this repo, there are basically two scenarios that I can foresee.
+We foresee two scenarios for continuing development:
 
-1. You want to see the app running and see all the pages so that you can rebuild it in some other tech
-2. You want to continue developing this repo specifically
+1. Run the app and view all the pages in order to rebuild it using other technology
+2. Continue development of this specific repository
 
-No shade either way, context and priorities and all that. The first scenario is easier to explain, so I'll do it first.
+(Note: if there’s anything not covered in here, get in touch with @pcraig3 or @charlesmorin.)
 
-(Note: if there's anything not covered in here, get in touch with [@pcraig3](https://github.com/pcraig3) or [@charlesmorin](https://github.com/charlesmorin).)
-
-## 1. Boot up the app, see all the pages
+## 1. Run the app and view all the pages
 
 All you need to do here is run the app and then find all the URLs.
 
@@ -27,18 +25,18 @@ All you need to do here is run the app and then find all the URLs.
 
 All good! Get yerself pizza. <span role="img" aria-label="pizza slice">🍕</span>
 
-## 2. Pick up where we left off
+## 2. Continue using our repository
 
-Hooray! Welcome to the hippest app in gov!! To pick up development after some arbitrary length of time, you'll want to see the app run, see the tests pass, and then try and update all the npm dependencies before doing anything else.
+In order to pick up development after some arbitrary length of time, first you need to run the app, update all the npm dependencies, and then check that all the tests pass before doing anything else.
 
 1. First, get it to boot up.
    - Check out "[Build and run](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run)" in the README.
    - The app will be running at [http://localhost:3005/](http://localhost:3005/).
-2. Second, see if you can run the tests. If they all pass (they should), then all's good in the hood.
-   - Go see "[Run tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests)" in the README.
-3. Update all the dependencies we're using, as many will be out of date.
-   - Follow the [Updating dependencies](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md) process we have
-   - Fingers crossed it all works <span role="img" aria-label="crossed fingers">🤞</span> 
+2. Second, run the tests. If they all pass (they should), then you can continue.
+   - Check "[Run tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests)" in the README.
+3. Update all the dependencies, as many will be out of date.
+   - Follow our [Updating dependencies](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md) process
+   - Fingers crossed it all works <span role="img" aria-label="crossed fingers">🤞</span>
 4. Heck yeah! Get devving!!!
 
 ### Repository structure

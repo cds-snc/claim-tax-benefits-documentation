@@ -12,23 +12,22 @@ Une fois que le déclarant s’est authentifié, l’API envoie les données à 
 
 Étant donné que l’ARC utilise des technologies héritées, il existe un degré de risque. Ce risque est atténué par le fait que le produit en ligne est hébergé sur une technologie en nuage, de sorte qu’il est séparé de la base de données. Cette séparation nous a permis de réaliser plusieurs prototypes pour différentes versions, sans mettre en péril les données de l’ARC. Si le produit était devenu un service fonctionnel, nous aurions pu continuer à modifier le service en fonction des commentaires des utilisateurs.
 
-{% if site.repos %} {% include repositories.html %}
-{% endif %}
+{% if site.repos %} {% include repositories.html %} {% endif %}
 
 ## Pour les développeurs
 
-* [Aperçu technique](https://crazee-docs.netlify.com/aperçu-technique/#aperçu-technique)
+* [Resumé](https://crazee-docs.netlify.com/aperçu-technique/#resumé)
 
   * [Utilisation de services tiers](https://crazee-docs.netlify.com/aperçu-technique/#utilisation-de-services-tiers)
   * [Tests automatisés](https://crazee-docs.netlify.com/aperçu-technique/#tests-automatisés)
   * [Continuer le développement](https://crazee-docs.netlify.com/aperçu-technique/#continuer-le-développement)
 * [Construire et exécuter l’application](https://crazee-docs.netlify.com/aperçu-technique/#construire-et-exécuter-lapplication)
 
-## Aperçu technique
+## Resumé
 
-L’application Réclamation d’avantages fiscaux (RAF) est une application [express](https://expressjs.com/fr/) côté serveur qui utilise les langages [Pug](https://pugjs.org/api/getting-started.html) pour les gabarits et [SCSS](https://sass-lang.com/) pour les feuilles de styles. L’échafaudage de l’application vient du [générateur d’applications Express](https://expressjs.com/fr/starter/generator.html). Il suppose l’existence d’une API backend (qui reçoit les données de l’utilisateur) et d’une base de données infonuagique (qui stocke les codes d’accès), bien que tous deux soient simulés afin que l’application puisse fonctionner de façon isolée pour le développement.
+L’application Réclamation d’avantages fiscaux est une application [express](https://expressjs.com/fr/) côté serveur qui utilise les langages [Pug](https://pugjs.org/api/getting-started.html) pour les gabarits et [SCSS](https://sass-lang.com/) pour les feuilles de styles. L’échafaudage de l’application vient du [générateur d’applications Express](https://expressjs.com/fr/starter/generator.html). Il suppose l’existence d’une API backend (qui reçoit les données de l’utilisateur) et d’une base de données infonuagique (qui stocke les codes d’accès), bien que tous deux soient simulés afin que l’application puisse fonctionner de façon isolée pour le développement.
 
-L’application RAF met en œuvre plusieurs pratiques recommandées pour le développement de services Web modernes.
+L’application met en œuvre plusieurs pratiques recommandées pour le développement de services Web modernes.
 
 * L’application représente un parcours utilisateur complet
 * Elle prend en exemple les meilleures [pratiques d’accessibilité pour les formulaires Web](https://adamsilver.io/articles/form-design-from-zero-to-hero-all-in-one-blog-post/) 
@@ -44,10 +43,10 @@ Nous utilisons plusieurs services tiers pour améliorer le déroulement du déve
 
 * [GitHub](https://github.com/) est un service infonuagique qui stocke notre code source, suit les changements au code et facilite les revues de code.
 * [Actions GitHub](https://github.com/features/actions) est un service d’intégration et de déploiement continus (CI/CD) qui nous permet de [tester et déployer notre code](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/.github/workflows/testBuildDeploy.yml)  directement à partir de GitHub
+
   * Il y a beaucoup de services CI/CD, mais nous avons choisi Actions GitHub car il est très facile à installer, et il serait facile de s’en départir en raison de sa configuration de base yml
 * [Heroku](https://www.heroku.com/home) est une plateforme comme service (PaaS) complètement gérée. Nous utilisons [Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps) de Heroku pour construire des applications jetables à chaque demande de tirage, ce qui facilite la revue de code.
 * [Snyk](https://snyk.io/) est un logiciel comme service qui passe à travers nos dépendances pour voir s’il y a des problèmes. Nous recevons des alertes lorsque la version d’un progiciel a des vulnérabilités connues.
-
 * [LGTM](https://lgtm.com/) est un logiciel comme service qui effectue l’analyse continue de la sécurité. Il fait une analyse à chaque demande de tirage pour trouver les vulnérabilités de sécurité potentielles.
 * [SonarQube](https://www.sonarqube.org/) est un logiciel comme service qui fait l’analyse de la qualité du code. Il analyse chaque demande de tirage pour trouver des anomalies, des failles de sécurité ou des bogues afin de garantir de bonnes pratiques de codage.
 
@@ -58,6 +57,7 @@ Chaque demande de tirage subit une suite de tests automatisés.
 * [Jest](https://jestjs.io/) : Tests unitaires servant à vérifier la logique interne des composants
 * [ESLint](https://eslint.org/) : Linter JavaScript qui assure une uniformité du code JavaScript dans toute l’application
 * [Cypress](https://www.cypress.io/) : Tests basés sur le comportement qui s’exécutent pour vérifier les étapes des parcours utilisateur
+
   * [cypress-axe](https://github.com/avanslaars/cypress-axe) : Nous effectuons un balayage de chaque page afin de vérifier les violations d’accessibilité dans le code
 * [SonarQube](https://www.sonarqube.org/) : Il analyse chaque demande de tirage pour trouver des anomalies, des failles de sécurité ou des bogues afin de garantir de bonnes pratiques de codage.
 
@@ -70,6 +70,7 @@ Chaque demande de tirage subit une suite de tests automatisés.
 Veuillez vous référer à la page [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md) afin d’obtenir les instructions détaillées pour construire et exécuter l’application.
 
 * [Guide de démarrage](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#getting-started-npm) (anglais seulement)
+
   * [Construire et exécuter l'application](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#build-and-run) (anglais seulement)
   * [Exécuter les tests](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#run-tests) (anglais seulement)
 * [Utilisation de Docker](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-docker) (anglais seulement)

@@ -6,7 +6,7 @@ trans_url: Research
 ---
 Au fil du partenariat, nous avons sondé 152 personnes, interviewé 82 personnes et mené 11 études. Les informations ainsi trouvées ont guidé la conception du produit et mené à des itérations de l’ensemble de l’architecture de l’information ainsi qu’à des modifications approfondies.
 
-[Notre équipe de recherche fournit une documentation détaillée sur](https://docs.google.com/document/d/1Nb7fKtA8ORLsjqnwFkRBpOYFRw7ca0Mo-8o-ddxztos/edit#heading=h.9lmcrpotnr2c) :
+[Notre équipe de recherche fournit une documentation détaillée](https://docs.google.com/document/d/1Nb7fKtA8ORLsjqnwFkRBpOYFRw7ca0Mo-8o-ddxztos/edit#heading=h.9lmcrpotnr2c)
 
 **Méthodes agiles de recherche en conception** : manière dont nous avons fait évoluer nos perspectives de recherche.
 

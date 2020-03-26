@@ -2,7 +2,7 @@
 title: Menu
 lang: en
 menuItems:
-  - menuItem: Information about File taxes to access benefits
+  - menuItem: Information about Claim tax benefits
   - menuItem: Context
   - menuItem: Research
   - menuItem: Design

@@ -106,7 +106,7 @@ L’outil en ligne est une application Web permettant aux déclarants invités d
 
 **Prochaines étapes**
 
-* Appliquer les suggestions du responsable de la sous-communauté de la conception de contenu.
+* Appliquer [les suggestions relatives au contenu (en anglais)](https://crazee-docs.netlify.com/assets/pdf/cra-content-suggestions.pdf)
 * Faire d’autres tests de contenu.
 * Concevoir un processus d’authentification simplifié à l’aide de questions auxquelles la majorité des déclarants peuvent répondre, afin que l’ARC puisse divulguer leurs renseignements financiers.
 

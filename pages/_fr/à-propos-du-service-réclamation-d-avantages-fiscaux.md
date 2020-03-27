@@ -6,7 +6,7 @@ trans_url: Information about Claim tax benefits
 ---
 [Réclamation d’avantages fiscaux](https://claim-tax-benefits.azurewebsites.net/start?lang=fr) est un service visant à rendre la production des déclarations de revenus plus rapide et plus facile, de sorte que les Canadiens et les Canadiennes à faible revenu puissent avoir accès à des crédits et à des prestations. Ce service a été conçu et développé par le [Service numérique canadien (SNC)](https://numerique.canada.ca/) en partenariat avec l’[Agence du revenu du Canada (ARC)](https://www.canada.ca/fr/agence-revenu.html).
 
-Le service comprend[ une lettre](/assets/pdf/invitation-letter-fr.pdf) invitant les personnes à déclarer leurs revenus soit [en ligne](https://claim-tax-benefits.azurewebsites.net/start?lang=fr), soit [sur papier](assets/pdf/paper-form-fr.pdf). Pour l’instant, les deux versions sont en cours de développement et ne peuvent pas être utilisées pour produire une déclaration de revenus.
+Le service comprend[ une lettre](/assets/pdf/invitation-letter-fr.pdf) invitant les personnes à déclarer leurs revenus soit [en ligne](https://claim-tax-benefits.azurewebsites.net/start?lang=fr), soit [sur papier](file:///assets/pdf/paper-form-fr.pdf).[](assets/pdf/paper-form-fr.pdf) Pour l’instant, les deux versions sont en cours de développement et ne peuvent pas être utilisées pour produire une déclaration de revenus.
 
 L’équipe qui a travaillé sur le service était connue sous le nom *Réclamation d’avantages fiscaux*. Le nom du service proprement dit est en cours d’élaboration. En réponse aux premiers résultats de recherche, le produit utilise actuellement le nom *Déclaration de revenus pour un accès aux prestations*. D’autres travaux sont nécessaires pour finaliser le nom.
 

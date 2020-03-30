@@ -4,8 +4,6 @@ title: Contexte
 lang: fr
 trans_url: Context
 ---
-
-
 L’ARC prélève des impôts sur le revenu des particuliers et des entreprises. Toutefois, de nombreuses personnes à faible revenu n’ont pas à payer d’impôts. Elles ont plutôt droit à des remboursements issus de crédits d’impôt et de prestations.
 
 Malheureusement, beaucoup de personnes ne reçoivent aucun remboursement puisqu’elles ne déclarent pas leurs revenus. Parmi celles qui obtiennent des remboursements, beaucoup produisent leur déclaration de revenus avec l’aide du [Programme communautaire des bénévoles en matière d’impôt](https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/programme-communautaire-benevoles-matiere-impot.html). Ce programme organise des comptoirs d’impôts gratuits où des bénévoles remplissent les déclarations de revenus des personnes admissibles. Au départ, le partenariat entre le SNC et l’ARC s’est concentré sur l’augmentation de la capacité de ces comptoirs bénévoles.
@@ -21,5 +19,5 @@ Plusieurs articles de blogue parlent du travail accompli dans ce partenariat :
 Plusieurs présentations ainsi qu’un article d’actualités décrivent le projet :
 
 * Mars 2020 – [Code for Canada](https://drive.google.com/open?id=1YNsJN6dNjRF1OBtZyz8vepmxu0z6MKTT) (en anglais)
-* [Notre histoire : pourquoi nous avons établi un partenariat, ce que nous avons découvert, comment nous avons construit le service, et les commentaires de nos utilisateur](https://docs.google.com/presentation/d/1eniL3Gkf7RMofVwS8rUakvnLgjF1xXZDqeWojcdWqGY/edit?ts=5e3ddaad#slide=id.g7de51ba1e4_1_0)
+* [Notre histoire : pourquoi nous avons établi un partenariat, ce que nous avons découvert, comment nous avons construit le service, et les commentaires de nos utilisateur](/assets/pdf/cra-minister-briefing.pdf) (en anglais)
 * Août 2019 – [Canadian Digital Service collaborates with CRA to help modest income taxpayers access benefits](https://www.itworldcanada.com/article/canadian-digital-service-collaborates-with-cra-to-help-modest-income-taxpayers-access-benefits/420767) (article en anglais d’IT World Canada)

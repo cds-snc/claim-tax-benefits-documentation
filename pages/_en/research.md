@@ -81,3 +81,79 @@ Tax filers make decisions based on what they think will help them avoid negative
 When completing a paper tax return, tax filers are presented with a long list of blank fields. Tax filers can feel overwhelmed by the apparent number of decisions about which boxes to fill out and whether they qualify for each benefit or credit.
 
 The MVP Claim tax benefits service emulates the personalized guidance available at tax clinics by showing only questions that apply to tax filers with income under roughly $12,000 per year ($19,000 for individuals under 65) and simple tax situations. The online channel further eliminates questions that don’t apply based on answers to preceding questions.
+
+##### \
+\
+Eliminate steps and required documents wherever possible
+
+Tax slips are typically required when completing a tax return. Without the guidance of volunteers, tax clinic clients worry that they are unknowingly missing a required tax slip or other document and may not know how to replace a document if it is missing.
+
+Claim Tax Benefits does not require tax filers to input specific information from their tax slips, as that information is already known by CRA. Instead, they confirm that their income is below the MVP threshold, and that they do not have additional income to declare.
+
+##### Ask simple, unambiguous questions
+
+Our research found that tax filers lose confidence or may unknowingly give the wrong answer, when the “right answer” is ambiguous. During usability testing, participants had trouble answering “yes or no” when there was qualifying information embedded in the question. For example, one question asked participants if they had home energy costs, but only if they also lived on a reserve.
+
+![](https://lh3.googleusercontent.com/jxey6jvhi_-amRrH8T2SFL4KB6Q9VcCysAmisW-y9JzB91sZ1QYcNu1eXGgjbT_skbZxmgZQ6BYzyOv5GjlIYnav4oKjJ4LkqGzPWkFT9WwfDa5NsefKIPTO-giVdZpANfwAOx1v)We decided to break down complex questions like this into multiple questions with clear “yes or no” answers, presented in sequential order. If the question contained a term that might not be familiar, a definition was provided in an accordion menu below.
+
+![](https://lh6.googleusercontent.com/oz3FPSygo3lZzD2JPssnfwpFh69IDObvbxJGgyXj7s63UnVGCy5hTFa_V15Z0mPKz31FDu5kRbUcn3AvZu08Im3i1oha1O3K69_xB4EvOBlF33naByWMUD07b8rlWiXcInnVHO9k)
+
+
+
+#### I need to use the channel that is most accessible to me.
+
+Channels are the medium through which people convey and receive information in order to use a service.
+
+**When paper is inaccessible**
+
+Many people with mobility and vision-related disabilities use screen readers and other assistive technology to find and access information. Paper communications are not accessible by default. Our study with participants with limited mobility found that accessing the information written on a piece of paper can compromise tax filers’ agency and privacy. This is because they must choose between spending valuable time converting paper to digital format, or asking someone else for help with a task that they could otherwise complete independently on the computer.
+
+**When digital is inaccessible**
+
+For those who do not use digital assistive technology, being required to use a digital channel can be equally problematic due to lack of access to a computer, low computer literacy, or mistrust in digital communication channels.
+
+##### Work towards an end-to-end service path through single channels
+
+Tax filers need to be able to complete the entire service using the channel that works for them. In order to do this, in future iterations of the service Claim Tax Benefits would work towards providing electronic invitations to tax filers who prefer digital communications, as an alternative to mailed invitations.
+
+#### I need to feel confident that this isn’t a scam.
+
+Scams are top of mind for tax filers: many have either experienced contact attempts from someone pretending to be the CRA, or know someone else who has. We heard from research participants who had been legitimately contacted by CRA, but remained unsure as to whether or not the communication was trustworthy.
+
+This research insight suggests that new services that are offered remotely, and in an environment where malicious actors are present, face a unique barrier to uptake: proving their legitimacy to tax filers. While building familiarity and trust in the service over time may be the primary solution to this problem, research with tax filers uncovered some additional approaches.
+
+##### Cater to existing methods of distinguishing between scams and legitimate services
+
+When determining whether or not a communication or service is indeed from CRA and not a criminal trying to defraud them, participants looked for:
+
+**Familiar visual cues**
+
+*Does a letter or online message look similar to others they’ve received in the past? Is it something that would be difficult to recreate?*
+
+The CBT service maintains a similar look and feel to existing CRA communications and services – we were cautious about introducing radically new design patterns.
+
+**Logical consistency**
+
+*Does this seem like something CRA would ask or do, based on their understanding of how taxes work and CRA’s motivations and goals?*
+
+We made sure to clearly communicate major departures from the filing process that tax filers are accustomed to, such as no longer requiring that they input their income information.
+
+**Official confirmation**
+
+*Can a tax expert or trusted CRA information source reassure them that the service is real?*
+
+In validation and usability testing, participants indicated that they would call CRA to verify that the service was real. Plans for live release of the service included making sure that call agents have the information to answer questions about the new service.
+
+## Next Steps – Further evaluative research
+
+### Usability testing with participants who use assistive technology
+
+Tax filers with limited mobility were identified as an underserved population that could benefit from a free, remote service. Usability testing with screen reader users, for example, may uncover barriers to access not covered by WCAG 2.1 requirements.
+
+### Mediated concierge testing – usability testing with real outcomes
+
+Our research insights seem to indicate thatconfidenceandrisk-based decision makingare the key factors in tax filing behaviour. These concepts and particular hinge on the presence of real perceived risks and potential outcomes. This is why for tax-related services in particular, it is critical to test with a high level of realism. Conducting usability tests where participants are filing real returns, and make real decisions based on expectations about real outcomes could reveal previously hidden confidence barriers.
+
+### Performance monitoring and analytics
+
+On an agile product, design iterations do not stop once the product is live. Monitoring outcomes and use patterns provides valuable information about how the service is performing at scale. Usage analytics like bounce rates, time on page, and navigation flows are useful diagnostic tools for identifying where usability problems might lie. Knowing which pages are associated with unexpected behaviour can help teams decide how to focus future usability testing sessions to find out why it’s happening.

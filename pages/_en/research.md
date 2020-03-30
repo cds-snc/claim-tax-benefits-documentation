@@ -4,7 +4,6 @@ title: Research
 lang: en
 trans_url: Recherche
 ---
-
 ## Introduction
 
 The Claim Tax Benefits project was designed and developed with the needs of tax filers at the heart of every decision. Using generative design research methods, we developed an understanding of what tax filers need in order to file a tax return and access benefits. We then used evaluative methods such as usability testing to validate or challenge hypothesized solutions. The process of designing, testing, and iterating provided us with further insight into what works and what doesn’t when meeting tax filers’ needs in the context of a remote service.
@@ -19,35 +18,30 @@ This project started in partnership with the Community Volunteer Income Tax Prog
 
 ### Tax filing goals: What motivates someone with low income to file a tax return?
 
-<ol class="strong">
+1. **To meet their responsibilities as Canadian residents or citizens and avoid punishment by CRA.**
 
-<li>
-<span>To meet their responsibilities as Canadian residents or citizens and avoid punishment by CRA.</span><br />
-<p>For many, receiving benefit payments is not the primary motivation for filing a tax return. Participants felt a strong obligation to file a return as Canadian citizens or residents. Most assumed that failing to do so would result in some kind of negative sanction from the government.</p>
-</li>
+For many, receiving benefit payments is not the primary motivation for filing a tax return. Participants felt a strong obligation to file a return as Canadian citizens or residents. Most assumed that failing to do so would result in some kind of negative sanction from the government.
 
-<li>
-<span>To get and maximize benefits</span><br />
-<p>At the tax clinic we interviewed tax filers who had planned tight monthly budgets according to the benefits they expected to receive, and knew exactly what they were going to spend their return on: children’s clothes, groceries, or paying off debt. They turned to the tax clinic for help because they trusted volunteers to get them all of the benefits they were eligible for.</p>
-</li>
+2. **To get and maximize benefits**
 
-<li>
-<span>To access other programs that require proof of income</span><br />
-<p>Various social assistance programs external to CRA are income tested and require proof of having filed a tax return. Some clients visit tax clinics with the explicit purpose of obtaining proof of filing so that they can access other supports.</p>
-</li>
+At the tax clinic we interviewed tax filers who had planned tight monthly budgets according to the benefits they expected to receive, and knew exactly what they were going to spend their return on: children’s clothes, groceries, or paying off debt. They turned to the tax clinic for help because they trusted volunteers to get them all of the benefits they were eligible for.
 
-</ol>
+3. **To access other programs that require proof of income**
+
+Various social assistance programs external to CRA are income tested and require proof of having filed a tax return. Some clients visit tax clinics with the explicit purpose of obtaining proof of filing so that they can access other supports.
+
+
 
 ### Barriers
 
 **Tax filers seek in-person assistance because they lack confidence in their own ability to file a return without making a mistake or omission.**
 
-- Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
-- Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.
+* Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
+* Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.
 
 **This lack of confidence becomes a barrier because it is connected to a fear of negative outcomes.**
 
-- Tax filers believe that mistakes in their tax return will result in negative outcomes such as financial penalties, legal action, or heightened future scrutiny from CRA. The participants we interviewed came to the tax clinic because they believed that they would make mistakes if they filed by themselves.
+* Tax filers believe that mistakes in their tax return will result in negative outcomes such as financial penalties, legal action, or heightened future scrutiny from CRA. The participants we interviewed came to the tax clinic because they believed that they would make mistakes if they filed by themselves.
 
 ### In-person assistance is not always possible to reach
 
@@ -55,16 +49,16 @@ Our generative research indicated that lack of confidence acts as a barrier to f
 
 Physically getting to in-person assistance can be an insurmountable barrier to tax filing for some, while adding a layer of complexity to the process for others.Travelling outside the home can be particularly difficult and time consuming to coordinate for tax filers with mobility-related disabilities, especially when the task is time sensitive. For others, distance or lack of transportation makes it difficult to get to free, in-person services.
 
-> “We come to the clinic so that they can help you do everything – all the math... if the computer can do \[it automatically] then maybe there’s a chance we could do it at home and just stay at home.”
+***“We come to the clinic so that they can help you do everything – all the math... if the computer can do \[it automatically] then maybe there’s a chance we could do it at home and just stay at home.”***
 
 A tax filer might have difficulty accessing in-person services because:
 
-- There is no clinic nearby, particularly in rural and remote areas
-- There is no transportation to get to the clinic
-- The tax clinic environment can be challenging for people with mental illnesses
-- In-person services can be difficult to get to for people with disabilities
+* There is no clinic nearby, particularly in rural and remote areas
+* There is no transportation to get to the clinic
+* The tax clinic environment can be challenging for people with mental illnesses
+* In-person services can be difficult to get to for people with disabilities
 
-Of the 13.4 million individuals across Canada with income under \$35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment.
+Of the 13.4 million individuals across Canada with income under $35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment.
 
 ## Future state insights
 
@@ -96,13 +90,13 @@ Claim Tax Benefits does not require tax filers to input specific information fro
 
 Our research found that tax filers lose confidence or may unknowingly give the wrong answer, when the “right answer” is ambiguous. During usability testing, participants had trouble answering “yes or no” when there was qualifying information embedded in the question. For example, one question asked participants if they had home energy costs, but only if they also lived on a reserve.
 
-![](https://lh3.googleusercontent.com/jxey6jvhi_-amRrH8T2SFL4KB6Q9VcCysAmisW-y9JzB91sZ1QYcNu1eXGgjbT_skbZxmgZQ6BYzyOv5GjlIYnav4oKjJ4LkqGzPWkFT9WwfDa5NsefKIPTO-giVdZpANfwAOx1v)
-
 ![Example of question on website: Question: In 2018, did you live on a reserve and pay home energy costs. Yes no radio buttons. Continue or cancel buttons.](/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Original question design")
 
 We decided to break down complex questions like this into multiple questions with clear “yes or no” answers, presented in sequential order. If the question contained a term that might not be familiar, a definition was provided in an accordion menu below.
 
 ![](https://lh6.googleusercontent.com/oz3FPSygo3lZzD2JPssnfwpFh69IDObvbxJGgyXj7s63UnVGCy5hTFa_V15Z0mPKz31FDu5kRbUcn3AvZu08Im3i1oha1O3K69_xB4EvOBlF33naByWMUD07b8rlWiXcInnVHO9k)
+
+
 
 #### Tax filers need to use the channel that is most accessible to them.
 
@@ -132,19 +126,19 @@ When determining whether or not a communication or service is indeed from CRA an
 
 **Familiar visual cues**
 
-_Does a letter or online message look similar to others they’ve received in the past? Is it something that would be difficult to recreate?_
+*Does a letter or online message look similar to others they’ve received in the past? Is it something that would be difficult to recreate?*
 
 The CBT service maintains a similar look and feel to existing CRA communications and services – we were cautious about introducing radically new design patterns.
 
 **Logical consistency**
 
-_Does this seem like something CRA would ask or do, based on their understanding of how taxes work and CRA’s motivations and goals?_
+*Does this seem like something CRA would ask or do, based on their understanding of how taxes work and CRA’s motivations and goals?*
 
 We made sure to clearly communicate major departures from the filing process that tax filers are accustomed to, such as no longer requiring that they input their income information.
 
 **Official confirmation**
 
-_Can a tax expert or trusted CRA information source reassure them that the service is real?_
+*Can a tax expert or trusted CRA information source reassure them that the service is real?*
 
 In validation and usability testing, participants indicated that they would call CRA to verify that the service was real. Plans for live release of the service included making sure that call agents have the information to answer questions about the new service.
 

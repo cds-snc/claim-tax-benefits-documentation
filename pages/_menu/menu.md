@@ -4,8 +4,8 @@ lang: en
 menuItems:
   - menuItem: Information about Claim tax benefits
   - menuItem: Context
-  - menuItem: Research
   - menuItem: Design
+  - menuItem: Research
   - menuItem: Technical overview
   - menuItem: Contact
 ---

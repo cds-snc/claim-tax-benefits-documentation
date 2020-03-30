@@ -19,17 +19,24 @@ This project started in partnership with the Community Volunteer Income Tax Prog
 
 ### Tax filing goals: What motivates someone with low income to file a tax return?
 
-1. **To meet their responsibilities as Canadian residents or citizens and avoid punishment by CRA.**
+<ol class="strong">
 
-For many, receiving benefit payments is not the primary motivation for filing a tax return. Participants felt a strong obligation to file a return as Canadian citizens or residents. Most assumed that failing to do so would result in some kind of negative sanction from the government.
+<li>
+<span>To meet their responsibilities as Canadian residents or citizens and avoid punishment by CRA.</span><br />
+<p>For many, receiving benefit payments is not the primary motivation for filing a tax return. Participants felt a strong obligation to file a return as Canadian citizens or residents. Most assumed that failing to do so would result in some kind of negative sanction from the government.</p>
+</li>
 
-2. **To get and maximize benefits**
+<li>
+<span>To get and maximize benefits</span><br />
+<p>At the tax clinic we interviewed tax filers who had planned tight monthly budgets according to the benefits they expected to receive, and knew exactly what they were going to spend their return on: children’s clothes, groceries, or paying off debt. They turned to the tax clinic for help because they trusted volunteers to get them all of the benefits they were eligible for.</p>
+</li>
 
-At the tax clinic we interviewed tax filers who had planned tight monthly budgets according to the benefits they expected to receive, and knew exactly what they were going to spend their return on: children’s clothes, groceries, or paying off debt. They turned to the tax clinic for help because they trusted volunteers to get them all of the benefits they were eligible for.
+<li>
+<span>To access other programs that require proof of income</span><br />
+<p>Various social assistance programs external to CRA are income tested and require proof of having filed a tax return. Some clients visit tax clinics with the explicit purpose of obtaining proof of filing so that they can access other supports.</p>
+</li>
 
-3. **To access other programs that require proof of income**
-
-Various social assistance programs external to CRA are income tested and require proof of having filed a tax return. Some clients visit tax clinics with the explicit purpose of obtaining proof of filing so that they can access other supports.
+</ol>
 
 ### Barriers
 

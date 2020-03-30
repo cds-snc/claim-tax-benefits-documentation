@@ -100,7 +100,7 @@ Our research found that tax filers lose confidence or may unknowingly give the w
 
 
 
-#### I need to use the channel that is most accessible to me.
+#### Tax filers need to use the channel that is most accessible to them.
 
 Channels are the medium through which people convey and receive information in order to use a service.
 
@@ -116,7 +116,7 @@ For those who do not use digital assistive technology, being required to use a d
 
 Tax filers need to be able to complete the entire service using the channel that works for them. In order to do this, in future iterations of the service Claim Tax Benefits would work towards providing electronic invitations to tax filers who prefer digital communications, as an alternative to mailed invitations.
 
-#### I need to feel confident that this isn’t a scam.
+#### Tax filers need to feel confident that the service isn’t a scam
 
 Scams are top of mind for tax filers: many have either experienced contact attempts from someone pretending to be the CRA, or know someone else who has. We heard from research participants who had been legitimately contacted by CRA, but remained unsure as to whether or not the communication was trustworthy.
 

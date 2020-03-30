@@ -82,9 +82,7 @@ When completing a paper tax return, tax filers are presented with a long list of
 
 The MVP Claim tax benefits service emulates the personalized guidance available at tax clinics by showing only questions that apply to tax filers with income under roughly $12,000 per year ($19,000 for individuals under 65) and simple tax situations. The online channel further eliminates questions that don’t apply based on answers to preceding questions.
 
-##### \
-\
-Eliminate steps and required documents wherever possible
+##### Eliminate steps and required documents wherever possible
 
 Tax slips are typically required when completing a tax return. Without the guidance of volunteers, tax clinic clients worry that they are unknowingly missing a required tax slip or other document and may not know how to replace a document if it is missing.
 

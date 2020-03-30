@@ -32,9 +32,9 @@ Various social assistance programs external to CRA are income tested and require
 
 
 
-### Barriers: Why tax filers seek in-person assistance
+### Barriers
 
-**Tax filers lack confidence in their own ability to file a return without making a mistake or omission.**
+**Tax filers seek in-person assistance because they lack confidence in their own ability to file a return without making a mistake or omission.**
 
 * Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
 * Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.

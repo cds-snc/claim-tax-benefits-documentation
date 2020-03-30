@@ -6,19 +6,19 @@ trans_url: Recherche
 ---
 ## Introduction
 
-The Claim Tax Benefits project was designed and developed with the needs of tax filers at the heart of every decision. Using generative design research methods, we developed an understanding of what tax filers need in order to file a tax return and access benefits. We then used evaluative methods such as usability testing to validate or challenge hypothesized solutions. The process of designing, testing, and iterating provided us with further insight into what works and what doesn’t when meeting tax filers’ needs in the context of a remote service.
+The Claim tax benefits project was designed and developed with the needs of tax filers at the heart of every decision. Using generative design research methods, we developed an understanding of what tax filers need in order to file a tax return and access benefits. We then used evaluative methods such as usability testing to validate or challenge hypothesized solutions. The process of designing, testing, and iterating provided us with further insight into what works and what doesn’t when meeting the needs of tax filers in the context of a remote service.
 
 Over the course of the partnership, we surveyed 152 people, conducted interviews and usability tests with 82 people, and conducted 13 studies. This is an abridged version of the full research report for this project. The full report includes all of the research insights and full methodology overview.
 
 ## Current state insights
 
-Generative research is a category of design research methods that aim to produce deep understanding of an experience or behaviour in order to identify a problem to solve and to generate potential solutions. During the discovery and early alpha phase of this project, we used generative research to understand tax filing as it stands today.
+Generative research is a category of design research methods that aim to produce deep understanding of an experience or behaviour in order to identify a problem to solve and to generate potential solutions. During the discovery and early alpha phases of this project, we used generative research to understand tax filing as it stands today.
 
 This project started in partnership with the Community Volunteer Income Tax Program (CVITP) within CRA. Two of our generative research studies focused on the experiences of tax clinic clients and another focused on the experiences of tax filers with limited mobility more broadly.
 
-### Tax filing goals: What motivates someone with low income to file a tax return?
+### Tax filing goals: what motivates someone with low income to file a tax return?
 
-1. **To meet their responsibilities as Canadian residents or citizens and avoid punishment by CRA.**
+1. **To meet their responsibilities as Canadian residents or citizens and avoid punishment from CRA**
 
 For many, receiving benefit payments is not the primary motivation for filing a tax return. Participants felt a strong obligation to file a return as Canadian citizens or residents. Most assumed that failing to do so would result in some kind of negative sanction from the government.
 
@@ -34,7 +34,7 @@ Various social assistance programs external to CRA are income tested and require
 
 ### Barriers
 
-**Tax filers seek in-person assistance because they lack confidence in their own ability to file a return without making a mistake or omission.**
+**Tax filers seek in-person assistance because they lack confidence in their own ability to file a return without making a mistake or accidental omission.**
 
 * Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
 * Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.
@@ -47,7 +47,7 @@ Various social assistance programs external to CRA are income tested and require
 
 Our generative research indicated that lack of confidence acts as a barrier to filing and accessing benefits, and that free, in-person assistance offered at tax clinics helps tax filers overcome that barrier.
 
-Physically getting to in-person assistance can be an insurmountable barrier to tax filing for some, while adding a layer of complexity to the process for others.Travelling outside the home can be particularly difficult and time consuming to coordinate for tax filers with mobility-related disabilities, especially when the task is time sensitive. For others, distance or lack of transportation makes it difficult to get to free, in-person services.
+Physically getting to in-person assistance can be an insurmountable barrier to tax filing for some, while adding a layer of complexity to the process for others. Travelling outside the home can be particularly difficult and time consuming to coordinate for tax filers with mobility-related disabilities, especially when the task is time sensitive. For others, lack of transportation or time can make it difficult to get to free, in-person services.
 
 ***“We come to the clinic so that they can help you do everything – all the math... if the computer can do \[it automatically] then maybe there’s a chance we could do it at home and just stay at home.”***
 
@@ -68,7 +68,7 @@ To address mobility barriers we designed a service that does not include in-pers
 
 ### What do tax filers need in order to file taxes without assistance?
 
-While self-serve, remote tax filing services can help address the mobility barriers that make it difficult to access tax clinics, the absence of in-person assistance may present other channel-specific barriers. During alpha and beta phases of the project we used evaluative research methods such as validation and usability testing to uncover barriers unique to a remote service. Evaluative studies were conducted primarily with participants recruited at food banks, who had varying degrees of familiarity with different tax filing methods.
+While self-serve, remote tax filing services can help address mobility barriers, the absence of in-person assistance may present other channel-specific barriers. During alpha and beta phases of the project we used evaluative research methods such as validation and usability testing to uncover barriers unique to a remote service. Evaluative studies were conducted primarily with participants recruited at food banks, who had varying degrees of familiarity with different tax filing methods. This section outlines the specific needs we identified over the course of our research with tax filers, and the design decisions that resulted. 
 
 #### Tax filers need to feel confident that they will not get in trouble with the CRA if they do their taxes alone.
 
@@ -88,7 +88,7 @@ Claim Tax Benefits does not require tax filers to input specific information fro
 
 ##### Ask simple, unambiguous questions
 
-Our research found that tax filers lose confidence or may unknowingly give the wrong answer, when the “right answer” is ambiguous. During usability testing, participants had trouble answering “yes or no” when there was qualifying information embedded in the question. For example, one question asked participants if they had home energy costs, but only if they also lived on a reserve.
+Our research found that tax filers lose confidence or may unknowingly give the wrong answer, when the “right answer” is ambiguous. During usability testing, participants had trouble answering “yes or no” when there was qualifying information embedded in the question. In an earlier iteration of the service, a question asked tax filers if they had home energy costs, but only if they also lived on a reserve.
 
 ![Example of question on website: Question: In 2018, did you live on a reserve and pay home energy costs. Yes no radio buttons. Continue or cancel buttons.](/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Original question design")
 
@@ -104,11 +104,11 @@ Channels are the medium through which people convey and receive information in o
 
 **When paper is inaccessible**
 
-Many people with mobility and vision-related disabilities use screen readers and other assistive technology to find and access information. Paper communications are not accessible by default. Our study with participants with limited mobility found that accessing the information written on a piece of paper can compromise tax filers’ agency and privacy. This is because they must choose between spending valuable time converting paper to digital format, or asking someone else for help with a task that they could otherwise complete independently on the computer.
+Many people with mobility and vision-related disabilities use screen readers and other assistive technology to find and access information. Paper communications are not accessible by default. Our research with participants with limited mobility found that accessing the information written on a piece of paper can compromise tax filers’ agency and privacy. This is because it forces tax filers with disabilities to choose between spending valuable time converting paper to digital format, or asking someone else for help with a task that they could otherwise complete independently on the computer.
 
 **When digital is inaccessible**
 
-For those who do not use digital assistive technology, being required to use a digital channel can be equally problematic due to lack of access to a computer, low computer literacy, or mistrust in digital communication channels.
+For tax filers who do not use digital assistive technology, being required to use a digital channel can be equally problematic due to lack of access to a computer, low computer literacy, or mistrust in digital communication channels.
 
 ##### Work towards an end-to-end service path through single channels
 
@@ -146,12 +146,12 @@ In validation and usability testing, participants indicated that they would call
 
 ### Usability testing with participants who use assistive technology
 
-Tax filers with limited mobility were identified as an underserved population that could benefit from a free, remote service. Usability testing with screen reader users, for example, may uncover barriers to access not covered by WCAG 2.1 requirements.
+Tax filers with limited mobility were identified as an underserved population that could benefit from a free, remote service. Usability testing with screen reader users may uncover barriers to access not covered by WCAG 2.1 requirements.
 
 ### Mediated concierge testing – usability testing with real outcomes
 
-Our research insights seem to indicate thatconfidenceandrisk-based decision makingare the key factors in tax filing behaviour. These concepts and particular hinge on the presence of real perceived risks and potential outcomes. This is why for tax-related services in particular, it is critical to test with a high level of realism. Conducting usability tests where participants are filing real returns, and make real decisions based on expectations about real outcomes could reveal previously hidden confidence barriers.
+Our research indicates that **confidence** and **risk-based decision making** are the key factors in tax filing behaviour. These concepts in particular hinge on the presence of real or perceived risks and potential outcomes. This is why, for tax-related services in particular, it is critical to test with a high level of realism. Conducting usability tests where participants are filing real returns and making real decisions based on expectations about real outcomes could reveal previously hidden confidence barriers.
 
 ### Performance monitoring and analytics
 
-On an agile product, design iterations do not stop once the product is live. Monitoring outcomes and use patterns provides valuable information about how the service is performing at scale. Usage analytics like bounce rates, time on page, and navigation flows are useful diagnostic tools for identifying where usability problems might lie. Knowing which pages are associated with unexpected behaviour can help teams decide how to focus future usability testing sessions to find out why it’s happening.
+On an agile product, design iterations do not stop once the product is live. Monitoring outcomes and use patterns provides valuable information about how the service is performing at scale. Usage analytics like bounce rates, time on page, and navigation flows are useful diagnostic tools for identifying where usability problems might lie. Knowing which pages are associated with unexpected behaviour can help researchers decide how to focus future usability testing sessions to find out why tax filers are interacting with the service in a given way.

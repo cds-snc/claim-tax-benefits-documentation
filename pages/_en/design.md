@@ -12,7 +12,7 @@ Our service design was informed by best practices and research insights. Researc
 * get proof of filing to access other programs and benefits
 * use the channel that is most accessible to them
 
-Based on these considerations, we developed an invitation only service with both an online and a paper channel. Invitees can use this simplified method to file their taxes and access benefits. To learn more, read [the service blueprint.](https://docs.google.com/presentation/d/1HKgcXIZoxRV2RUyH2xpYts3vBsg0r00m/edit#slide=id.p1)
+Based on these considerations, we developed an invitation only service with both an online and a paper channel. Invitees can use this simplified method to file their taxes and access benefits. To learn more, read [the service blueprint.](https://drive.google.com/a/cds-snc.ca/file/d/1SSZd7L7hbdRh37qrSVWZHzbzWFF4zS4w/view?usp=sharing)
 
 **The service touchpoints are:**
 

@@ -12,7 +12,7 @@ Nous avons élaboré notre conception de service en nous fondant sur des pratiqu
 * de recevoir la preuve qu’ils ont produit leur déclaration pour avoir accès à d’autres programmes et prestations.
 * d’utiliser le moyen de communication qui est le plus accessible pour eux.
 
-Sur la base de ces informations, nous avons développé un service fonctionnant sur invitation seulement avec une version en ligne et une version papier. Les invités peuvent utiliser cette méthode simplifiée pour produire leur déclaration de revenus et avoir accès à des prestations. Pour en savoir plus, consultez le [diagramme d’analyse de service](https://docs.google.com/presentation/d/1HKgcXIZoxRV2RUyH2xpYts3vBsg0r00m/edit#slide=id.p1) (en anglais).
+Sur la base de ces informations, nous avons développé un service fonctionnant sur invitation seulement avec une version en ligne et une version papier. Les invités peuvent utiliser cette méthode simplifiée pour produire leur déclaration de revenus et avoir accès à des prestations. Pour en savoir plus, consultez le [diagramme d’analyse de service](https://drive.google.com/a/cds-snc.ca/file/d/1SSZd7L7hbdRh37qrSVWZHzbzWFF4zS4w/view?usp=sharing) (en anglais).
 
 Les points de contact entre le service et les utilisateurs sont :
 

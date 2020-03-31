@@ -63,7 +63,7 @@ A tax filer might have difficulty accessing in-person services because:
 * The tax clinic environment can be challenging for people with mental illnesses
 * In-person services can be difficult to get to for people with disabilities
 
-Of the 13.4 million individuals across Canada with income under $35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment.
+Of the 13.4 million individuals across Canada with income under $35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment. For each new tax clinic added, fewer additional returns are being filed as a result.
 
 ## Future state insights
 

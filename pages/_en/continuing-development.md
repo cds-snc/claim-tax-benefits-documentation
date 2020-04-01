@@ -12,7 +12,7 @@ We foresee two scenarios for continuing development:
 1. Run the app and view all the pages in order to rebuild it using other technology
 2. Continue development of this specific repository
 
-(Note: if there’s anything not covered in here, get in touch with @pcraig3 or @charlesmorin.)
+(Note: if there’s anything not covered in here, get in touch with [@pcraig3](https://github.com/pcraig3) or [@charlesmorin](https://github.com/charlesmorin).)
 
 ## 1. Run the app and view all the pages
 

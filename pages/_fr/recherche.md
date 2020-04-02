@@ -120,11 +120,11 @@ Nous avons décidé de diviser de telles questions complexes en plusieurs questi
 
 Les canaux sont les moyens par lesquels les personnes transmettent et reçoivent des informations pour utiliser un service.
 
-##### Quand le papier est inaccessible
+**Quand le papier est inaccessible**
 
 De nombreuses personnes ayant un handicap lié à la mobilité ou à la vision utilisent des lecteurs d’écran et d’autres technologies d’adaptation pour trouver des informations et y avoir accès. Les communications papier ne sont pas accessibles par défaut. Notre étude auprès de participants à mobilité réduite a révélé que l’accès aux informations écrites sur papier peut compromettre leur capacité d’agir et leur vie privée. En effet, ils doivent choisir entre passer un temps précieux à convertir le format papier en format numérique ou à demander de l’aide pour une tâche qu’ils seraient autrement capables d’exécuter seuls avec un ordinateur.
 
-##### Quand le numérique est inaccessible
+**Quand le numérique est inaccessible**
 
 Pour les personnes qui n’utilisent pas de technologies d’adaptation, avoir à utiliser un canal numérique peut être tout aussi problématique en raison d’un manque d’accès à un ordinateur, de faibles compétences informatiques ou d’une méfiance envers les moyens de communication numériques.
 

@@ -4,9 +4,13 @@ title: Recherche
 lang: fr
 trans_url: Research
 ---
+
+
+
+
 ## Introduction
 
-Le projetRéclamation d’avantages fiscauxa été conçu et développé en plaçant les besoins des déclarants au coeur de chaque décision. À l’aide de méthodes de recherche de conception génératives, nous avons développé une compréhension de ce dont les déclarants ont besoin pour produire une déclaration de revenus et avoir accès à des prestations. Nous avons ensuite utilisé des méthodes évaluatives comme les tests d’utilisabilité pour valider ou remettre en question des solutions hypothétiques. Le processus de conception, de mise à l’essai et d’itération nous a fourni des informations utiles sur ce qui fonctionne et ce qui ne fonctionne pas pour répondre aux besoins des déclarants, dans un contexte de service à distance.
+Le projet Réclamation d’avantages fiscaux a été conçu et développé en plaçant les besoins des déclarants au coeur de chaque décision. À l’aide de méthodes de recherche de conception génératives, nous avons développé une compréhension de ce dont les déclarants ont besoin pour produire une déclaration de revenus et avoir accès à des prestations. Nous avons ensuite utilisé des méthodes évaluatives comme les tests d’utilisabilité pour valider ou remettre en question des solutions hypothétiques. Le processus de conception, de mise à l’essai et d’itération nous a fourni des informations utiles sur ce qui fonctionne et ce qui ne fonctionne pas pour répondre aux besoins des déclarants, dans un contexte de service à distance.
 
 La présente documentation est une version abrégée du rapport de recherche de ce projet. Le rapport complet comprend tous les résultats de recherche et une présentation complète de la méthodologie.
 
@@ -87,3 +91,83 @@ Bien que les services d’impôts à distance et en libre-service peuvent aider 
 Les déclarants basent leurs décisions sur ce qui les aidera, selon eux, à éviter de subir des conséquences négatives s’ils produisent leur déclaration de revenus.
 
 ![Diagramme montrant quelles questions sont affichées ou masquées en fonction des réponses. Si vous répondez "non" à "Souhaitez-vous voter aux élections fédérales?" vous ne voyez pas de pages concernant la citoyenneté ou la permission de vous inscrire. Vous passez à la question suivante.](/assets/img/researchdoc_fr_1.png " Diagramme de filtrage des questions")
+
+##### Afficher seulement les questions nécessaires et pertinentes pour les déclarants
+
+Lorsqu’ils remplissent une déclaration de revenus sur papier, les déclarants se voient présenter une longue liste de champs vides. Ils peuvent se sentir dépassés par le nombre apparent de décisions à prendre (Quelles cases dois-je remplir? Suis-je admissible à cette prestation ou à ce crédit?).
+
+Le produit minimum viable (PMV) du serviceRéclamation d’avantages fiscauximite les conseils personnalisés offerts aux comptoirs d’impôts en ne montrant que les questions qui s’appliquent aux déclarants ayant un revenu annuel inférieur à environ 12 000 $ (ou 19 000 $ pour les personnes de 65 ans et moins). La version en ligne élimine d’autres questions non applicables aux déclarants sur la base de leurs réponses aux questions précédentes.
+
+##### Éliminer les étapes et les documents requis si possible
+
+Les feuillets d’impôts sont généralement nécessaires lors de la production d’une déclaration de revenus. Sans les conseils des bénévoles, les clients aux comptoirs d’impôts craignent qu’un feuillet d’impôt ou un autre document important ne leur échappe, et ils ne savent pas nécessairement comment remplacer un tel document manquant.
+
+Le serviceRéclamation d’avantages fiscauxne demande pas aux déclarants de fournir des informations précises provenant de leurs feuillets d’impôts, étant donné que ces informations sont déjà connues de l’ARC. Au lieu, les déclarants doivent confirmer que leur revenu est inférieur à la limite énoncée dans le PMV et qu’ils n’ont pas de revenus supplémentaires à déclarer.
+
+##### Poser des questions simples et sans ambigüité
+
+Nos recherches indiquent que quand la « bonne réponse » est ambigüe, les déclarants perdent leur assurance ou peuvent fournir une réponse erronée par mégarde. Au cours des tests d’utilisabilité, les participants avaient de la misère à répondre « oui » ou « non » lorsqu’il y avait des informations relatives à l’admissibilité intégrées dans la question. Par exemple, l’une des questions demandait aux participants s’ils avaient des frais d’énergie domiciliaire, mais seulement si en plus, ils vivaient dans une réserve.
+
+![ Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons.](/assets/img/researchdoc_fr_4.png)
+
+Nous avons décidé de diviser de telles questions complexes en plusieurs questions en ordre séquentiel, à répondre par « oui » ou « non ». Si la question comprenait un terme qui pouvait être étranger, la définition était fournie dans un menu déroulant en dessous.
+
+![ Exemple de question sur le site Web:  Domicile dans une réserve. À un moment quelconque en 2019, votre résidence principale était-elle située dans une reserve aux termes de la Loi sur les Indiens?](/assets/img/researchdoc_fr_5.png)
+
+#### Les déclarants ont besoin d’utiliser le canal qui leur est le plus accessible.
+
+Les canaux sont les moyens par lesquels les personnes transmettent et reçoivent des informations pour utiliser un service.
+
+##### Quand le papier est inaccessible
+
+De nombreuses personnes ayant un handicap lié à la mobilité ou à la vision utilisent des lecteurs d’écran et d’autres technologies d’adaptation pour trouver des informations et y avoir accès. Les communications papier ne sont pas accessibles par défaut. Notre étude auprès de participants à mobilité réduite a révélé que l’accès aux informations écrites sur papier peut compromettre leur capacité d’agir et leur vie privée. En effet, ils doivent choisir entre passer un temps précieux à convertir le format papier en format numérique ou à demander de l’aide pour une tâche qu’ils seraient autrement capables d’exécuter seuls avec un ordinateur.
+
+##### Quand le numérique est inaccessible
+
+Pour les personnes qui n’utilisent pas de technologies d’adaptation, avoir à utiliser un canal numérique peut être tout aussi problématique en raison d’un manque d’accès à un ordinateur, de faibles compétences informatiques ou d’une méfiance envers les moyens de communication numériques.
+
+##### Tendre à un service de bout en bout qui utilise des canaux uniques
+
+Les déclarants doivent être en mesure d’utiliser le service du début à la fin en utilisant le canal qui fonctionne pour eux. Pour ce faire, les futures itérations du serviceRéclamation d’avantages fiscauxs’attarderont à la création d’invitations électroniques plutôt qu’imprimées pour les déclarants qui préfèrent les communications numériques.
+
+#### Les déclarants doivent avoir l’assurance qu’il ne s’agit pas d’une arnaque.
+
+Les arnaques sont une préoccupation importante pour les déclarants : ils sont nombreux à avoir vécu des tentatives de contact provenant de personnes se faisant passer pour l’ARC, ou à connaître quelqu’un qui en a subi. Nous avons eu des participants qui avaient été contactés à juste titre par l’ARC, sans savoir si la communication était digne de confiance ou non.
+
+Cette observation suggère que les nouveaux services offerts à distance, dans un contexte où des agents malveillants sont présents, viennent avec un obstacle précis à relever : prouver aux déclarants que le service est légitime. Bien qu’amplifier la connaissance du service et la confiance envers celui-ci au fil du temps est probablement la solution principale, notre recherche auprès des déclarants a permis de soulever d’autres idées.
+
+##### S’inspirer des méthodes existantes servant à distinguer les arnaques des services légitimes
+
+Quand ils essaient de déterminer si une communication ou un service provient effectivement de l’ARC et non d’un criminel voulant les escroquer, les participants recherchent :
+
+**Des indices visuels familiers**
+
+La lettre ou le message électronique ressemblent-ils aux autres reçus dans le passé? Est-ce qu’il serait facile de les reproduire?
+
+Le serviceRéclamation d’avantages fiscauxa un aspect général qui ressemble à celui des communications et services existants de l’ARC. Nous sommes restés prudents quant à l’introduction de nouveaux designs.
+
+**Une cohérence logique**
+
+Selon ce qu’ils connaissent du fonctionnement des impôts et des objectifs de l’ARC, est-ce quelque chose que l’ARC ferait ou demanderait?
+
+Nous nous sommes assurés de communiquer clairement les principales dérogations à la procédure de déclaration habituelle, par exemple celle de ne plus fournir ses renseignements sur le revenu.
+
+**Une confirmation officielle**
+
+Y a-t-il un spécialiste des impôts ou une source d’informations sûre de l’ARC qui peut confirmer qu’il s’agit d’un véritable service?
+
+Lors des tests de validation et d’utilisabilité, les participants ont indiqué qu’ils téléphoneraient à l’ARC pour vérifier si le service était réel. Les plans de mise en fonction du service prévoyaient de s’assurer que les agents des centres d’appel avaient les informations nécessaires pour répondre aux questions relatives au nouveau service.
+
+## Prochaines étapes – Poursuivre les recherches évaluatives
+
+### Tests d’utilisabilité auprès des participants utilisant des technologies d’adaptation
+
+Les déclarants à mobilité réduite représentent une population mal desservie pour qui un service gratuit et à distance pourrait être utile. Des tests d’utilisabilité menés auprès d’utilisateurs de lecteurs d’écran, par exemple, peuvent révéler des obstacles non abordés par les règles WCAG 2.1.
+
+### Tests concierge avec médiation – Tests d’utilisabilité avec de vrais résultats
+
+Les résultats de nos recherches semblent indiquer que lesentiment d’assuranceet laprise de décision selon le risquesont les facteurs principaux influençant le comportement des personnes qui produisent une déclaration de revenus. Ces concepts dépendent particulièrement des risques perçus réels et des conséquences potentielles réelles. C’est pourquoi il est essentiel, pour les services liés à la fiscalité en particulier, de mener des tests avec un niveau élevé de réalisme. Des tests d’utilisabilité où les participants produisent des déclarations de revenus réelles et prennent des décisions réelles en anticipant des conséquences réelles pourraient révéler des obstacles au sentiment d’assurance auparavant inconnus.
+
+### Suivi et analyse de performance
+
+Pour un produit agile, les itérations en matière de conception ne s’arrêtent pas après sa mise en service. Le suivi des résultats et des tendances d’utilisation fournit des informations précieuses sur la façon dont le produit performe à grande échelle. Les données comme le taux de rebond, le temps passé sur une page et les chemins empruntés pour naviguer constituent des outils diagnostiques utiles pour déterminer les endroits où il pourrait y avoir des problèmes d’utilisabilité. Le fait de connaître les pages associées à un comportement inattendu peut aider les équipes à planifier l’objet des prochaines séances de tests d’utilisabilité, afin d’en découvrir la raison.

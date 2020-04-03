@@ -106,7 +106,7 @@ L’outil en ligne est une application Web permettant aux déclarants invités d
 
 **Prochaines étapes**
 
-* Appliquer les suggestions relatives au contenu (disponible sur demande [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca))
+* Appliquer les suggestions relatives au contenu (document disponible sur demande à [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca))
 * Faire d’autres tests de contenu.
 * Concevoir un processus d’authentification simplifié à l’aide de questions auxquelles la majorité des déclarants peuvent répondre, afin que l’ARC puisse divulguer leurs renseignements financiers.
 

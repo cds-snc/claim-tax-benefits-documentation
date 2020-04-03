@@ -12,7 +12,7 @@ Nous avons élaboré notre conception de service en nous fondant sur des pratiqu
 * de recevoir la preuve qu’ils ont produit leur déclaration pour avoir accès à d’autres programmes et prestations.
 * d’utiliser le moyen de communication qui est le plus accessible pour eux.
 
-Sur la base de ces informations, nous avons développé un service fonctionnant sur invitation seulement avec une version en ligne et une version papier. Les invités peuvent utiliser cette méthode simplifiée pour produire leur déclaration de revenus et avoir accès à des prestations. Pour en savoir plus, consultez le [diagramme d’analyse de service](https://drive.google.com/a/cds-snc.ca/file/d/1SSZd7L7hbdRh37qrSVWZHzbzWFF4zS4w/view?usp=sharing) (en anglais).
+Sur la base de ces informations, nous avons développé un service fonctionnant sur invitation seulement avec une version en ligne et une version papier. Les invités peuvent utiliser cette méthode simplifiée pour produire leur déclaration de revenus et avoir accès à des prestations. Pour en savoir plus, le diagramme d’analyse de service  est disponible sur demande [cds-snc@tbs-sct.gc.ca](cds-snc@tbs-sct.gc.ca) .
 
 Les points de contact entre le service et les utilisateurs sont :
 
@@ -37,7 +37,7 @@ L’ARC enverra la lettre d’invitation pour sélectionner des participants et 
 
 Impression :
 
-* Les services d’impression de l’ARC ont plusieurs limitations, notamment l’incapacitéd’inclure des encadrés ou des informations personnalisées (par exemple, l’emplacement du code d’accès personnel) dans le corps de la lettre.
+* Les services d’impression de l’ARC ont plusieurs limitations, notamment l’incapacité d’inclure des encadrés ou des informations personnalisées (par exemple, l’emplacement du code d’accès personnel) dans le corps de la lettre.
 * En raison des échéances, nous n’avons pas été en mesure de créer un champ dynamique pour afficher le code d’accès personnel dans la lettre. Le processus actuel requiert environ 12 à 15 mois pour intégrer ce champ ou pour créer un champ similaire qui afficherait le nom du déclarant dans le formulaire papier.
 * Le nom du déclarant doit apparaître sur le formulaire pour éviter que l’individu ne donne son formulaire à une autre personne qui ne serait pas admissible au service. L’équipe a amorcé une discussion à ce sujet avec les parties concernées.
 

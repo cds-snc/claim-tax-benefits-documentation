@@ -16,8 +16,6 @@ Several blog posts discuss the work of the partnership:
 * April 2019 [Co-location: leave no team member behind](https://digital.canada.ca/2019/04/10/co-location-leave-no-team-member-behind/)
 * November 2018 [Helping Canadians with low income complete their taxes](https://digital.canada.ca/2018/11/07/helping-low-income-canadians-complete-their-taxes/)
 
-Several presentations and a news article also describe the work:
+News article also describe the work:
 
-* March 2020 [Code for Canada](https://drive.google.com/drive/folders/1_yVsSYidIMf5TdvLVgDCybmM-8oG9wu7)                                                                                                                
-* [Our story: why we partnered, what we discovered, how we built the service, and feedback from our users  ](/assets/pdf/cra-minister-briefing.pdf)                                                   
 * August 2019  [Canadian Digital Service collaborates with CRA to help modest income taxpayers access benefits](https://www.itworldcanada.com/article/canadian-digital-service-collaborates-with-cra-to-help-modest-income-taxpayers-access-benefits/420767)

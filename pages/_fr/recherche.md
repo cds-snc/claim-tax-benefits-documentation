@@ -104,7 +104,7 @@ Le serviceRéclamation d’avantages fiscauxne demande pas aux déclarants de fo
 
 Nos recherches indiquent que quand la « bonne réponse » est ambigüe, les déclarants perdent leur assurance ou peuvent fournir une réponse erronée par mégarde. Au cours des tests d’utilisabilité, les participants avaient de la misère à répondre « oui » ou « non » lorsqu’il y avait des informations relatives à l’admissibilité intégrées dans la question. Par exemple, l’une des questions demandait aux participants s’ils avaient des frais d’énergie domiciliaire, mais seulement si en plus, ils vivaient dans une réserve.
 
-![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "](/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Capture d'cran réalisée en anglais seulement lors d'une iteration de conception. Capture en français ci-dessous. ")
+![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "](/assets/img/researchdoc_fr_4.png)
 
 ***" En 2018, avez-vous vécu dans une réserve et payé des frais d’énergie domiciliaire?*** \
 ***Choix : Oui/Non.*** \

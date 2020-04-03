@@ -107,7 +107,7 @@ The online channel is a web application via which invited tax-filers can submit 
 
 **Next Steps**
 
-* Implement content [suggestions](https://crazee-docs.netlify.com/assets/pdf/cra-content-suggestions.pdf) 
+* Implement content suggestions (available upon request at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca))
 * Additional user testing
 * Design a simplified authentication flow using questions that most tax-filers are able to answer so that the CRA can disclose their financial information
 

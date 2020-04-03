@@ -94,12 +94,13 @@ Microsoft Azure is the Cloud Service Provider (CSP)
 - Azure AppService
 - Docker
 
-#### Other topics
+<!-- #### Other topics
 
 - [Build and run the application as a Docker container](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-docker)
 - Deploy the application manually on Azure:
   - [using Azure Container Registry](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/DEPLOY.md)
   - [using Docker Hub](https://github.com/cds-snc/cra-claim-tax-benefits/blob/faccd2945ea6dee2a7c165041829d4da28b4f91b/DEPLOY.md)
 - [Run a SonarQube analysis](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-sonarqube)
+--!>
 
 If there's anything else you need that's not in here, get in touch with [@pcraig3](https://github.com/pcraig3) or [@charlesmorin](https://github.com/charlesmorin).

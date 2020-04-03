@@ -4,7 +4,7 @@ title: Contexte
 lang: fr
 trans_url: Context
 ---
-L’ARC prélève des impôts sur le revenu des particuliers et des entreprises. Toutefois, de nombreuses personnes à faible revenu n’ont pas à payer d’impôts. Elles ont plutôt droit à des remboursements issus de crédits d’impôt et de prestations.
+L’ARC prélève des impôts sur le revenu des particuliers et des entreprises et administre également des prestations. De nombreuses personnes à faible revenu n’ont pas à payer d’impôts supplémentaires lorsqu'elles déclarent leur revenus. Elles ont plutôt droit à des remboursements issus de crédits d’impôt et de prestations.
 
 Malheureusement, beaucoup de personnes ne reçoivent aucun remboursement puisqu’elles ne déclarent pas leurs revenus. Parmi celles qui obtiennent des remboursements, beaucoup produisent leur déclaration de revenus avec l’aide du [Programme communautaire des bénévoles en matière d’impôt](https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/programme-communautaire-benevoles-matiere-impot.html). Ce programme organise des comptoirs d’impôts gratuits où des bénévoles remplissent les déclarations de revenus des personnes admissibles. Au départ, le partenariat entre le SNC et l’ARC s’est concentré sur l’augmentation de la capacité de ces comptoirs bénévoles.
 

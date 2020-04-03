@@ -106,11 +106,6 @@ Nos recherches indiquent que quand la « bonne réponse » est ambigüe, les dé
 
 ![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "](/assets/img/researchdoc_fr_4.png)
 
-***" En 2018, avez-vous vécu dans une réserve et payé des frais d’énergie domiciliaire?*** \
-***Choix : Oui/Non.*** \
-***Bouton : Continuer.***\
-***Hyperlien : Annuler "***
-
 Nous avons décidé de diviser de telles questions complexes en plusieurs questions en ordre séquentiel, à répondre par « oui » ou « non ». Si la question comprenait un terme qui pouvait être étranger, la définition était fournie dans un menu déroulant en dessous.
 
 ![ Exemple de question sur le site Web:  Domicile dans une réserve. À un moment quelconque en 2019, votre résidence principale était-elle située dans une reserve aux termes de la Loi sur les Indiens?](/assets/img/researchdoc_fr_5.png)

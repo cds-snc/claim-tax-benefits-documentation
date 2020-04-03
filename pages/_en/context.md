@@ -4,7 +4,7 @@ title: Context
 lang: en
 trans_url: Contexte
 ---
-The CRA collects income tax from individuals and businesses. But many low income people do not owe taxes. Instead they are eligible for refunds as a result of tax benefits and credits.
+The CRA collects income tax from individuals and businesses, and also administers benefits. Many people with low income do not owe additional taxes when they file a tax return. Instead they are eligible for refunds as a result of tax benefits and credits.
 
 Unfortunately many of these people do not receive a refund because they do not file taxes. Of those who do get refunds, many file with assistance from the [Community Volunteer Income Tax Program](https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html) . This program hosts free clinics where volunteers file taxes for eligible people. Initially, the CDS/CRA partnership focused on increasing the capacity of the volunteer clinics.
 

@@ -9,6 +9,9 @@ en:
   language: "Français"
   homepage-slug: "/information-about-claim-tax-benefits/"
   site-name: "Claim tax benefits documentation"
+  read-the: "Read the"
+  terms-url: "/terms-and-conditions/"
+  terms: "terms and conditions"
 fr:
   homepage-tag-line: "Aider les Canadiens à faible revenu à déclarer leurs revenus pour avoir accès aux prestations"
   cds-snc: "Service numérique canadien"
@@ -20,3 +23,6 @@ fr:
   language: "English"
   homepage-slug: "/à-propos-du-service-réclamation-d-avantages-fiscaux/"
   site-name: "Documentation sur Réclamation d’avantages fiscaux"
+  read-the: "Lire les"
+  terms-url: "/avis/"
+  terms: "avis de termes et conditions"

@@ -67,4 +67,4 @@ Chaque demande de tirage subit une suite de tests automatisés.
 
 ## Construire et exécuter l’application
 
-Veuillez vous référer à la page [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md) afin d’obtenir les instructions détaillées pour construire et exécuter l’application.
+Veuillez vous référer à la page [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#r%C3%A9clamation-davantages-fiscaux) afin d’obtenir les instructions détaillées pour construire et exécuter l’application.

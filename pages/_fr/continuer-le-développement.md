@@ -19,7 +19,7 @@ Tout ce que vous avez à faire est d'exécuter l'application et trouver toutes l
 
 1. Premièrement, exécutez l'application.
 
-   * Consultez la page « Construire et exécuter  » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
+   * Consultez la page « Construire et exécuter  » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#réclamation-davantages-fiscaux).
    * L'application sera disponible à l'adresse <http://localhost:3005/>.
 2. Vous trouverez la liste complète des adresses URL dans le fichier [`/config`<wbr>`/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). L'ordre des adresses correspond à l'ordre d'exécution logique dans l'application.
 
@@ -31,11 +31,11 @@ Pour poursuivre le développement après qu'un certain temps se soit écoulé, v
 
 1. Premièrement, exécutez l'application.
 
-   * Consultez la page « Construire et exécuter l'application » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
+   * Consultez la page « Construire et exécuter l'application » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#réclamation-davantages-fiscaux).
    * L'application sera disponible à l'adresse <http://localhost:3005/>.
 2. Deuxièmement, exécutez les tests. Si les résultats sont bons (ils devraient l'être), cela veut dire que l'application est en bon état.
 
-   * Consultez « Exécuter les tests » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
+   * Consultez « Exécuter les tests » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#réclamation-davantages-fiscaux).
 3. Mettez à jour toutes les dépendances de l'application puisqu'elles ne seront plus à jour.
 
    * Consultez le processus de [mise à jour des dépendances](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md#mettre-à-jour-les-dépendances)

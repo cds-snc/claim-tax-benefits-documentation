@@ -19,7 +19,7 @@ Tout ce que vous avez à faire est d'exécuter l'application et trouver toutes l
 
 1. Premièrement, exécutez l'application.
 
-   * Consultez la page « [Construire et exécuter l'application](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run) » dans le `README`.
+   * Consultez la page « Construire et exécuter  » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
    * L'application sera disponible à l'adresse <http://localhost:3005/>.
 2. Vous trouverez la liste complète des adresses URL dans le fichier [`/config`<wbr>`/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). L'ordre des adresses correspond à l'ordre d'exécution logique dans l'application.
 
@@ -31,11 +31,11 @@ Pour poursuivre le développement après qu'un certain temps se soit écoulé, v
 
 1. Premièrement, exécutez l'application.
 
-   * Consultez la page « [Construire et exécuter l'application](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run) » dans le `README`.
+   * Consultez la page « Construire et exécuter l'application » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
    * L'application sera disponible à l'adresse <http://localhost:3005/>.
 2. Deuxièmement, exécutez les tests. Si les résultats sont bons (ils devraient l'être), cela veut dire que l'application est en bon état.
 
-   * Consultez « [Exécuter les tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests) » dans le `README`.
+   * Consultez « Exécuter les tests » dans le [`README`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
 3. Mettez à jour toutes les dépendances de l'application puisqu'elles ne seront plus à jour.
 
    * Consultez le processus de [mise à jour des dépendances](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md#mettre-à-jour-les-dépendances)
@@ -97,13 +97,5 @@ Microsoft Azure est le fournisseur de services Cloud
 * Azure AppService
 * Docker
 
-#### Autres sujets
-
-* [Construire et exécuter l'application dans un conteneur Docker](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-docker)
-* Déployer l'application manuellement dans Azure :
-
-  * [à l'aide d'Azure Container Registry](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/DEPLOY.md#ex%C3%A9cuter-un-d%C3%A9ploiement-manuel)
-  * [à l'aide de Docker Hub](https://github.com/cds-snc/cra-claim-tax-benefits/blob/faccd2945ea6dee2a7c165041829d4da28b4f91b/DEPLOY.md)
-* [Exécuter une analyse SonarQube](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-sonarqube)
 
 S'il y a autre chose dont vous avez besoin qui ne fait pas partie de cette documentation, contactez [@pcraig3](https://github.com/pcraig3) ou [@charlesmorin](https://github.com/charlesmorin).

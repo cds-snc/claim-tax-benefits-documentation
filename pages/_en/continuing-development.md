@@ -19,7 +19,7 @@ We foresee two scenarios for continuing development:
 All you need to do here is run the app and then find all the URLs.
 
 1. First, get it to boot up.
-   - Check out "[Build and run](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run)" in the README.
+   - Check out "Build and run" in the [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
    - The app will be running at [http://localhost:3005/](http://localhost:3005/).
 2. A full list of URLs can be found in [`/config`<wbr>`/routes.config.js`](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/config/routes.config.js). They're pretty much in order, so you can see them all sequentially.
 
@@ -30,10 +30,10 @@ All good! Get yerself pizza. <span role="img" aria-label="pizza slice">🍕</spa
 In order to pick up development after some arbitrary length of time, first you need to run the app, update all the npm dependencies, and then check that all the tests pass before doing anything else.
 
 1. First, get it to boot up.
-   - Check out "[Build and run](https://github.com/cds-snc/cra-claim-tax-benefits#build-and-run)" in the README.
+   - Check out "Build and run" in the [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
    - The app will be running at [http://localhost:3005/](http://localhost:3005/).
 2. Second, run the tests. If they all pass (they should), then you can continue.
-   - Check "[Run tests](https://github.com/cds-snc/cra-claim-tax-benefits#run-tests)" in the README.
+   - Check "Run tests" in the [README](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md).
 3. Update all the dependencies, as many will be out of date.
    - Follow our [Updating dependencies](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/UPDATING-DEPENDENCIES.md) process
    - Fingers crossed it all works <span role="img" aria-label="crossed fingers">🤞</span>
@@ -94,13 +94,6 @@ Microsoft Azure is the Cloud Service Provider (CSP)
 - Azure AppService
 - Docker
 
-#### Other topics
-
-- [Build and run the application as a Docker container](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-docker)
-- Deploy the application manually on Azure:
-  - [using Azure Container Registry](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/docs/DEPLOY.md)
-  - [using Docker Hub](https://github.com/cds-snc/cra-claim-tax-benefits/blob/faccd2945ea6dee2a7c165041829d4da28b4f91b/DEPLOY.md)
-- [Run a SonarQube analysis](https://github.com/cds-snc/cra-claim-tax-benefits/blob/master/README.md#using-sonarqube)
 
 
 If there's anything else you need that's not in here, get in touch with [@pcraig3](https://github.com/pcraig3) or [@charlesmorin](https://github.com/charlesmorin).

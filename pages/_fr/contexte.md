@@ -16,8 +16,6 @@ Plusieurs articles de blogue parlent du travail accompli dans ce partenariat :
 * Avril 2019 – [Colocalisation : ne laisser aucun membre de l’équipe derrière](https://numerique.canada.ca/2019/04/10/colocalisation-ne-laisser-aucun-membre-de-l%C3%A9quipe-derri%C3%A8re/)
 * Novembre 2018 – [Aidons les Canadiens à faible revenu à produire leur déclaration de revenus](https://numerique.canada.ca/2018/11/07/aidons-les-canadiens-%C3%A0-faible-revenu-%C3%A0-produire-leur-d%C3%A9claration-de-revenus/)
 
-Plusieurs présentations ainsi qu’un article d’actualités décrivent le projet :
+ Article d’actualités décrivent le projet :
 
-* Mars 2020 – [Code for Canada](https://drive.google.com/open?id=1YNsJN6dNjRF1OBtZyz8vepmxu0z6MKTT) (en anglais)
-* [Notre histoire : pourquoi nous avons établi un partenariat, ce que nous avons découvert, comment nous avons construit le service, et les commentaires de nos utilisateur](/assets/pdf/cra-minister-briefing.pdf) (en anglais)
 * Août 2019 – [Canadian Digital Service collaborates with CRA to help modest income taxpayers access benefits](https://www.itworldcanada.com/article/canadian-digital-service-collaborates-with-cra-to-help-modest-income-taxpayers-access-benefits/420767) (article en anglais d’IT World Canada)

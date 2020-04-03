@@ -4,10 +4,6 @@ title: Recherche
 lang: fr
 trans_url: Research
 ---
-
-
-
-
 ## Introduction
 
 Le projet Réclamation d’avantages fiscaux a été conçu et développé en plaçant les besoins des déclarants au coeur de chaque décision. À l’aide de méthodes de recherche de conception génératives, nous avons développé une compréhension de ce dont les déclarants ont besoin pour produire une déclaration de revenus et avoir accès à des prestations. Nous avons ensuite utilisé des méthodes évaluatives comme les tests d’utilisabilité pour valider ou remettre en question des solutions hypothétiques. Le processus de conception, de mise à l’essai et d’itération nous a fourni des informations utiles sur ce qui fonctionne et ce qui ne fonctionne pas pour répondre aux besoins des déclarants, dans un contexte de service à distance.
@@ -108,9 +104,12 @@ Le serviceRéclamation d’avantages fiscauxne demande pas aux déclarants de fo
 
 Nos recherches indiquent que quand la « bonne réponse » est ambigüe, les déclarants perdent leur assurance ou peuvent fournir une réponse erronée par mégarde. Au cours des tests d’utilisabilité, les participants avaient de la misère à répondre « oui » ou « non » lorsqu’il y avait des informations relatives à l’admissibilité intégrées dans la question. Par exemple, l’une des questions demandait aux participants s’ils avaient des frais d’énergie domiciliaire, mais seulement si en plus, ils vivaient dans une réserve.
 
-![ Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons.](/assets/img/screen-shot-2020-03-18-at-19.17.33.png)
+![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "](/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Capture d'cran réalisée en anglais seulement lors d'une iteration de conception. Capture en français ci-dessous. ")
 
-*En 2018, avez-vous vécu dans une réserve et payé des frais d’énergie domiciliaire? Choix : Oui/Non. Bouton : Continuer. Hyperlien : Annuler*
+***" En 2018, avez-vous vécu dans une réserve et payé des frais d’énergie domiciliaire?*** \
+***Choix : Oui/Non.*** \
+***Bouton : Continuer.***\
+***Hyperlien : Annuler "***
 
 Nous avons décidé de diviser de telles questions complexes en plusieurs questions en ordre séquentiel, à répondre par « oui » ou « non ». Si la question comprenait un terme qui pouvait être étranger, la définition était fournie dans un menu déroulant en dessous.
 

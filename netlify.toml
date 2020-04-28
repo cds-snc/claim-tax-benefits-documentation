@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "/information-about-claim-tax-benefits/"
-  status = 302
-  force = true

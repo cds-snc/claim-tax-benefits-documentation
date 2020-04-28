@@ -4,6 +4,7 @@ title: Recherche
 lang: fr
 trans_url: Research
 ---
+
 ## Introduction
 
 Le projet Réclamation d’avantages fiscaux a été conçu et développé en plaçant les besoins des déclarants au coeur de chaque décision. À l’aide de méthodes de recherche de conception génératives, nous avons développé une compréhension de ce dont les déclarants ont besoin pour produire une déclaration de revenus et avoir accès à des prestations. Nous avons ensuite utilisé des méthodes évaluatives comme les tests d’utilisabilité pour valider ou remettre en question des solutions hypothétiques. Le processus de conception, de mise à l’essai et d’itération nous a fourni des informations utiles sur ce qui fonctionne et ce qui ne fonctionne pas pour répondre aux besoins des déclarants, dans un contexte de service à distance.
@@ -46,12 +47,12 @@ Le projet a débuté en partenariat avec le Programme communautaire des bénévo
 
 **Les déclarants manquent de confiance dans leur capacité à produire une déclaration de revenus sans faire d’erreurs ou sans omettre d’informations.**
 
-* Le fait de déterminer les mesures à prendre, les informations à divulguer et la façon d’interpréter les critères d’admissibilité pour les réclamations et les prestations de particuliers n’est pas intuitif : des connaissances de base ou des recherches sont nécessaires.
-* Les déclarants ayant une situation fiscale simple peuvent avoir des situations de vie complexes qui sont difficiles à communiquer à l’ARC. Les réponses à des questions apparemment simples, comme « Quelle était votre adresse l’année dernière? », peuvent être ambigües pour une personne qui vit une période mouvementée ou qui s’en remet.
+- Le fait de déterminer les mesures à prendre, les informations à divulguer et la façon d’interpréter les critères d’admissibilité pour les réclamations et les prestations de particuliers n’est pas intuitif : des connaissances de base ou des recherches sont nécessaires.
+- Les déclarants ayant une situation fiscale simple peuvent avoir des situations de vie complexes qui sont difficiles à communiquer à l’ARC. Les réponses à des questions apparemment simples, comme « Quelle était votre adresse l’année dernière? », peuvent être ambigües pour une personne qui vit une période mouvementée ou qui s’en remet.
 
 **Ce manque de confiance devient un obstacle puisqu’il est lié à la peur d’un dénouement négatif.**
 
-* Les déclarants pensent que les erreurs qu’ils font dans leur déclaration de revenus entraîneront des conséquences négatives comme une pénalité financière, une poursuite judiciaire ou une surveillance accrue de la part de l’ARC. Les participants que nous avons interviewés étaient venus au comptoir parce qu’ils pensaient qu’ils feraient des erreurs s’ils produisaient leur déclaration par eux-mêmes.
+- Les déclarants pensent que les erreurs qu’ils font dans leur déclaration de revenus entraîneront des conséquences négatives comme une pénalité financière, une poursuite judiciaire ou une surveillance accrue de la part de l’ARC. Les participants que nous avons interviewés étaient venus au comptoir parce qu’ils pensaient qu’ils feraient des erreurs s’ils produisaient leur déclaration par eux-mêmes.
 
 ### Il n’est pas toujours possible d’obtenir de l’aide en personne
 
@@ -63,12 +64,12 @@ Le fait de se déplacer pour obtenir de l’assistance en personne peut être un
 
 Un déclarant peut avoir de la difficulté à se rendre à des services en personne parce que :
 
-* Il n’y a aucun comptoir à proximité, surtout dans les régions rurales et éloignées.
-* Il n’y a aucun transport permettant de se rendre au comptoir.
-* L’environnement du comptoir d’impôts peut être difficile pour les personnes souffrant de troubles de santé mentale.
-* Les services offerts en personne peuvent être difficiles à obtenir pour les personnes handicapées.
+- Il n’y a aucun comptoir à proximité, surtout dans les régions rurales et éloignées.
+- Il n’y a aucun transport permettant de se rendre au comptoir.
+- L’environnement du comptoir d’impôts peut être difficile pour les personnes souffrant de troubles de santé mentale.
+- Les services offerts en personne peuvent être difficiles à obtenir pour les personnes handicapées.
 
-Parmi les 13,4 millions de personnes au Canada dont le revenu est inférieur à 35 000 $, environ 741 460 personnes produisent chaque année leur déclaration de revenus à l’aide du Programme communautaire des bénévoles en matière d’impôt. Tandis que les comptoirs physiques fonctionnent pour les personnes pouvant s’y rendre, les données du programme indiquent que l’expansion du programme s’accompagne d’une diminution du rendement des investissements. Pour chaque nouveau comptoir d’impôts, il y a moins de déclarations de revenus qui sont produites.
+Parmi les 13,4 millions de personnes au Canada dont le revenu est inférieur à 35 000 \$, environ 741 460 personnes produisent chaque année leur déclaration de revenus à l’aide du Programme communautaire des bénévoles en matière d’impôt. Tandis que les comptoirs physiques fonctionnent pour les personnes pouvant s’y rendre, les données du programme indiquent que l’expansion du programme s’accompagne d’une diminution du rendement des investissements. Pour chaque nouveau comptoir d’impôts, il y a moins de déclarations de revenus qui sont produites.
 
 ## Situation future
 
@@ -86,7 +87,7 @@ Bien que les services d’impôts à distance et en libre-service peuvent aider 
 
 Les déclarants basent leurs décisions sur ce qui les aidera, selon eux, à éviter de subir des conséquences négatives s’ils produisent leur déclaration de revenus.
 
-![Diagramme montrant quelles questions sont affichées ou masquées en fonction des réponses. Si vous répondez "non" à "Souhaitez-vous voter aux élections fédérales?" vous ne voyez pas de pages concernant la citoyenneté ou la permission de vous inscrire. Vous passez à la question suivante.](/assets/img/researchdoc_fr_1.png " Diagramme de filtrage des questions")
+![Diagramme montrant quelles questions sont affichées ou masquées en fonction des réponses. Si vous répondez "non" à "Souhaitez-vous voter aux élections fédérales?" vous ne voyez pas de pages concernant la citoyenneté ou la permission de vous inscrire. Vous passez à la question suivante.]({{ site.baseurl }}/assets/img/researchdoc_fr_1.png " Diagramme de filtrage des questions")
 
 ##### Afficher seulement les questions nécessaires et pertinentes pour les déclarants
 
@@ -104,11 +105,11 @@ Le serviceRéclamation d’avantages fiscauxne demande pas aux déclarants de fo
 
 Nos recherches indiquent que quand la « bonne réponse » est ambigüe, les déclarants perdent leur assurance ou peuvent fournir une réponse erronée par mégarde. Au cours des tests d’utilisabilité, les participants avaient de la misère à répondre « oui » ou « non » lorsqu’il y avait des informations relatives à l’admissibilité intégrées dans la question. Par exemple, l’une des questions demandait aux participants s’ils avaient des frais d’énergie domiciliaire, mais seulement si en plus, ils vivaient dans une réserve.
 
-![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "](/assets/img/researchdoc_fr_4.png)
+![ " Exemple de question sur le site Web: Question: En 2018, viviez-vous dans une réserve et payiez-vous les coûts énergétiques de votre maison? Oui pas de boutons radio. Continuer ou annuler les boutons. "]({{ site.baseurl }}/assets/img/researchdoc_fr_4.png)
 
 Nous avons décidé de diviser de telles questions complexes en plusieurs questions en ordre séquentiel, à répondre par « oui » ou « non ». Si la question comprenait un terme qui pouvait être étranger, la définition était fournie dans un menu déroulant en dessous.
 
-![ Exemple de question sur le site Web:  Domicile dans une réserve. À un moment quelconque en 2019, votre résidence principale était-elle située dans une reserve aux termes de la Loi sur les Indiens?](/assets/img/researchdoc_fr_5.png)
+![ Exemple de question sur le site Web:  Domicile dans une réserve. À un moment quelconque en 2019, votre résidence principale était-elle située dans une reserve aux termes de la Loi sur les Indiens?]({{ site.baseurl }}/assets/img/researchdoc_fr_5.png)
 
 #### Les déclarants ont besoin d’utiliser le canal qui leur est le plus accessible.
 

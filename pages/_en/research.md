@@ -4,6 +4,7 @@ title: Research
 lang: en
 trans_url: Recherche
 ---
+
 ## Introduction
 
 The Claim tax benefits project was designed and developed with the needs of tax filers at the heart of every decision. Using generative design research methods, we developed an understanding of what tax filers need in order to file a tax return and access benefits. We then used evaluative methods such as usability testing to validate or challenge hypothesized solutions. The process of designing, testing, and iterating provided us with further insight into what works and what doesn’t when meeting the needs of tax filers in the context of a remote service.
@@ -41,12 +42,12 @@ This project started in partnership with the Community Volunteer Income Tax Prog
 
 **Tax filers seek in-person assistance because they lack confidence in their own ability to file a return without making a mistake or accidental omission.**
 
-* Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
-* Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.
+- Determining which steps to take, which information to divulge, and how to interpret eligibility criteria for individual claims and benefits is not intuitive: it requires background knowledge or research
+- Tax filers with simple tax situations may have complex life situations that are difficult to communicate to CRA. The answers to seemingly simple questions, like “what was your address last year?” can be ambiguous for someone who is experiencing or recovering from a turbulent period in their life.
 
 **This lack of confidence becomes a barrier because it is connected to a fear of negative outcomes.**
 
-* Tax filers believe that mistakes in their tax return will result in negative outcomes such as financial penalties, legal action, or heightened future scrutiny from CRA. The participants we interviewed came to the tax clinic because they believed that they would make mistakes if they filed by themselves.
+- Tax filers believe that mistakes in their tax return will result in negative outcomes such as financial penalties, legal action, or heightened future scrutiny from CRA. The participants we interviewed came to the tax clinic because they believed that they would make mistakes if they filed by themselves.
 
 ### In-person assistance is not always possible to reach
 
@@ -58,12 +59,12 @@ Physically getting to in-person assistance can be an insurmountable barrier to t
 
 A tax filer might have difficulty accessing in-person services because:
 
-* There is no clinic nearby, particularly in rural and remote areas
-* There is no transportation to get to the clinic
-* The tax clinic environment can be challenging for people with mental illnesses
-* In-person services can be difficult to get to for people with disabilities
+- There is no clinic nearby, particularly in rural and remote areas
+- There is no transportation to get to the clinic
+- The tax clinic environment can be challenging for people with mental illnesses
+- In-person services can be difficult to get to for people with disabilities
 
-Of the 13.4 million individuals across Canada with income under $35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment. For each new tax clinic added, fewer additional returns are being filed as a result.
+Of the 13.4 million individuals across Canada with income under \$35,000 around 741,460 file returns through the Community Volunteer Income Tax Program each year. While brick and mortar tax clinics are effective for those who can reach them, program data indicates that expansion of the program is seeing diminishing returns of impact for investment. For each new tax clinic added, fewer additional returns are being filed as a result.
 
 ## Future state insights
 
@@ -79,7 +80,7 @@ While self-serve, remote tax filing services can help address mobility barriers,
 
 Tax filers make decisions based on what they think will help them avoid negative outcomes after their return is filed.
 
-![Diagram demonstrating which questions are shown or hidden depending on answers. If you answer "no" to "Would you like to vote in the federal election?" you do not see pages asking about citizenship or permission to register. You skip to the next question.](/assets/img/skippingscreenshot.png "Question filtering diagram")
+![Diagram demonstrating which questions are shown or hidden depending on answers. If you answer "no" to "Would you like to vote in the federal election?" you do not see pages asking about citizenship or permission to register. You skip to the next question.]({{ site.baseurl }}/assets/img/skippingscreenshot.png "Question filtering diagram")
 
 ##### Present only the questions that are necessary and relevant to the tax filer
 
@@ -97,7 +98,7 @@ Claim tax benefits does not require tax filers to input specific information fro
 
 Our research found that tax filers lose confidence or may unknowingly give the wrong answer, when the “right answer” is ambiguous. During usability testing, participants had trouble answering “yes or no” when there was qualifying information embedded in the question. In an earlier iteration of the service, a question asked tax filers if they had home energy costs, but only if they also lived on a reserve.
 
-![Example of question on website: Question: In 2018, did you live on a reserve and pay home energy costs. Yes no radio buttons. Continue or cancel buttons.](/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Original question design")
+![Example of question on website: Question: In 2018, did you live on a reserve and pay home energy costs. Yes no radio buttons. Continue or cancel buttons.]({{ site.baseurl }}/assets/img/screen-shot-2020-03-18-at-19.17.33.png "Original question design")
 
 We decided to break down complex questions like this into multiple questions with clear “yes or no” answers, presented in sequential order. If the question contained a term that might not be familiar, a definition was provided in an accordion menu below.
 
@@ -131,19 +132,19 @@ When determining whether or not a communication or service is indeed from CRA an
 
 **Familiar visual cues**
 
-*Does a letter or online message look similar to others they’ve received in the past? Is it something that would be difficult to recreate?*
+_Does a letter or online message look similar to others they’ve received in the past? Is it something that would be difficult to recreate?_
 
 The Claim tax benefits service maintains a similar look and feel to existing CRA communications and services – we were cautious about introducing radically new design patterns.
 
 **Logical consistency**
 
-*Does this seem like something CRA would ask or do, based on their understanding of how taxes work and CRA’s motivations and goals?*
+_Does this seem like something CRA would ask or do, based on their understanding of how taxes work and CRA’s motivations and goals?_
 
 We made sure to clearly communicate major departures from the filing process that tax filers are accustomed to, such as no longer requiring that they input their income information.
 
 **Official confirmation**
 
-*Can a tax expert or trusted CRA information source reassure them that the service is real?*
+_Can a tax expert or trusted CRA information source reassure them that the service is real?_
 
 In validation and usability testing, participants indicated that they would call CRA to verify that the service was real. Plans for live release of the service included making sure that call agents have the information to answer questions about the new service.
 

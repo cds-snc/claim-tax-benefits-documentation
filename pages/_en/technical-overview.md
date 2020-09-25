@@ -7,7 +7,7 @@ childPages:
   - Continuing development
 ---
 
-[Claim tax benefits](https://claim-tax-benefits.azurewebsites.net/start) is not a stand-alone application, but rather requires a high level of integration with the CRA. The product retrieves individual data from the CRA database, and then displays this data to the tax-filer. The product communicates with the CRA database via an API (application programming interface). API technology allows one system to communicate with another.
+[Claim tax benefits](https://claim-tax-benefits.herokuapp.com/start) is not a stand-alone application, but rather requires a high level of integration with the CRA. The product retrieves individual data from the CRA database, and then displays this data to the tax-filer. The product communicates with the CRA database via an API (application programming interface). API technology allows one system to communicate with another.
 
 Once the tax-filer authenticates themselves, the API communicates the individual’s data to the product. The product then asks the tax-filer to confirm that this information is correct. This product files tax returns through the NETFILE API — the same one used by vendor software.
 

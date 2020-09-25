@@ -19,7 +19,7 @@ Based on these considerations, we developed an invitation only service with both
 
 - a [letter]({{ site.baseurl }}/assets/pdf/invitation-letter-en.pdf) inviting people to use this service,
 - a [paper form]({{ site.baseurl }}/assets/pdf/paper-form-en.pdf) for people who will not file online
-- an [online tool](https://claim-tax-benefits.azurewebsites.net/start) which allows people to file taxes through a website, and which can take the form of:
+- an [online tool](https://claim-tax-benefits.herokuapp.com/start) which allows people to file taxes through a website, and which can take the form of:
 
   - a ‘lite’ journey that requires no security questions and no corresponding disclosure of financial information. Tax-filers must wait two weeks to receive their notice of assessment by mail.
   - an ‘authenticated’ journey which requires answering security questions and disclosure of financial information. Tax-filers will receive an immediate notice of assessment online.

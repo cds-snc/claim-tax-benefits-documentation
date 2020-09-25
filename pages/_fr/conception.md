@@ -19,7 +19,7 @@ Les points de contact entre le service et les utilisateurs sont :
 
 1. [Une lettre]({{ site.baseurl }}/assets/pdf/invitation-letter-fr.pdf) invitant les personnes à utiliser le service;
 2. [Un formulaire papier]({{ site.baseurl }}/assets/pdf/paper-form-fr.pdf) pour les personnes qui ne veulent pas remplir leur déclaration de revenus en ligne;
-3. [Un outil en ligne](https://claim-tax-benefits.azurewebsites.net/start?lang=fr) qui permet aux personnes de remplir leur déclaration de revenus sur un site Web et qui peut prendre la forme :
+3. [Un outil en ligne](https://claim-tax-benefits.herokuapp.com/start?lang=fr) qui permet aux personnes de remplir leur déclaration de revenus sur un site Web et qui peut prendre la forme :
 4. 1. d’un parcours « allégé » qui ne demande pas aux déclarants de répondre à des questions de sécurité et qui ne divulgue aucune information financière. Les déclarants doivent attendre deux semaines pour recevoir leur avis de cotisation par la poste.
    2. d’un parcours avec authentification qui demande aux déclarants de répondre à des questions de sécurité et qui divulgue des informations financières. Les déclarants reçoivent un avis de cotisation électronique immédiatement.
 
